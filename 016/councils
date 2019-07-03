@@ -1,22 +1,123 @@
-.
-Dark Council (DC) Alliances
-BRAA/BRBB (RRA/B) 
-BSHD
-DATA
-DNGR
-DSN
-FFLY
-NEVL
-REVR
-SHHH
+```Dark Council (DC) Alliances
+---------------------------
+  1. 210334900 [DNGR] Pirates of PRoD
+  3. 116956000 [DSN]  Deep Space Nine
+  6.  91841740 [FFLY] The Browncoats
+  7.  84238370 [DATA] Data
+ 10.  74882690 [ØØ]   The Consortium
+ 17.  52251160 [REVR] Blue Reavers
+ 21.  45470890 [SHHH] Covert
+ 23.  43962270 [NEVL] Neccessary Evil
+ 28.  38561000 [BRAA] BORG Republic A
+  ?.         ? [BRBB] ?
+  ?.         ? [RRA]  ?
+  ?.         ? [RRB]  ?
+  ?.         ? [BSHD] ?
 
 Council of Guardians (CoG) Alliances
-A/À/ÁCE
-GAL
-GF/A-Z & INR/A-Z (NOT GFY OR GFR)
-OO/ØØ/ÒÓ
-SPTN
-TXLA/B/C
+------------------------------------
+  2. 146937700 [OO]   Obsidian Order
+  4. 108830100 [ACE]  Ace alliance
+ 14.  56351120 [SPTN] Spartanians
+ 18.  47791400 [TXLA] 147thAttackGroup
+ 19.  47707220 [ÀCE]  ÀCE Alliance
+ 22.  44522060 [ÁCE]  ÁCE Alliance
+ 25.  41867790 [ØØ]   Kau District
+ 26.  39669430 [GF]   Guardian Fleet
+ 27.  39043910 [INR]  Insurrection
+ 29.  38310660 [GAL]  Galaxy Wing 91
+ 34.  34372690 [TXLB] 147thTaxkFBravo
+ 42.  26386270 [TXLC] 147thTaskForceC
+ 45.  24829440 [GFO]  GF Octane
+ 71.   7540108 [GFA]  Guardian Alpha
+
 
 Leadership Council (LC)
+-----------------------
 Switzerland / Galaxy 16 Leadership
+```
+
+```
+Not in DC or CoG:
+  5.  93108630 [TTS]  The Tal Shiar
+  8.  78685820 [QC]   Q Continuum
+ 11.  72920700 [PLDN] Paladin
+ 12.  57683170 [SCRG] The Scourge
+ 13.  56525300 [IMO]  Mortus Nos Ortum
+ 15.  55412470 [TOG]  The Old Guard
+ 16.  54652840 [SFHC] USS Reliant
+ 20.  46217580 [TAXI] TaxiTitans
+ 24.  43258300 [USMC] USMC DevilDogs
+ 30.  36886260 [FOUN] Founders
+ 31.  35842470 [GFYM] GFYM
+ 32.  35159020 [RDR]  Raiders
+ 33.  34563230 [UNT]  UnitedPlayers
+ 35.  33217990 [STRA] Rebel Alliance
+ 36.  31075750 [DEFY] Defiance
+ 37.  30700600 [THEQ] The Q Continuum
+ 38.  29089010 [FERS] Federations
+ 39.  27858690 [CSF]  Christian SF
+ 40.  27858690 [SSP]  SS Paladin
+ 41.  27249360 [TCF]  Colonial Fleet
+ 43.  25902220 [SOLP] Solar Plexus
+ 44.  25622510 [DÁTA] Datas brother
+ 46.  24559760 [GZRS] GEEZERS
+ 47.  24224430 [SOSA] GalacticSymphony
+ 48.  21777500 [MFTS] The Misfits
+ 49.  20446740 [FAR]  Farpoint One
+ 50.  20172870 [ODIS] OverDosedINSpace
+ 51.  19627270 [DEVL] Dangerously Evil
+ 52.  19260830 [VLKY] Valkyrie Dread
+ 53.  17224570 [DUU]  UpsideDwnInSpace
+ 54.  16365160 [BÏRG] The Collective
+ 55.  16227860 [USAF] US Air Force
+ 56.  15219230 [KWSN] KnightsWhoSayNi
+ 57.  15148090 [DDKT] DATA Dark Tower
+ 58.  13281400 [SPGD] Space Gardens 
+ 59.  12338290 [IRS]  Ind Raiding Soc
+ 60.  11992710 [TLOP] The Last Outpost
+ 61.  10562260 [SHDO] SHADO
+ 62.  10545390 [WWAG] WhereMyAlliancGo
+```
+```
+Not in DC or CoG (continued):
+ 63.   9865746 [HTMN] Hitmen
+ 64.   9482058 [ADM]  All Dark Matter
+ 65.   9356309 [BLUE] Andorian Marines
+ 66.   9212798 [TOWD] Theoldwardogs
+ 67.   8467166 [THC]  420 in space
+ 68.   8160955 [CASU] The Kirkzies
+ 69.   8013958 [CONF] Confederation
+ 70.   7936144 [STVK] Stovokor
+ 72.   7390390 [UDA]  USSDefiantArcher
+ 73.   7343957 [FTF]  For The Fallen
+ 74.   6887695 [OLMN] Old Men
+ 75.   6707233 [TIVE] 59th inactive
+ 76.   6668281 [AV]   The Avengers
+ 77.   6496994 [OGO]  Trinity Alliance
+ 78.   6182527 [USS]  United Space
+ 79.   6164878 [GLG]  Gaylacticus
+ 80.   6118368 [CLAF] Casual n Lazy AF
+ 81.   6114476 [OMAH] Pointy Ears
+ 82.   6034590 [SECT] Section 31
+ 83.   5986162 [TRMT] True Motion
+ 84.   5861712 [KHAN] Inner Light
+ 85.   5821789 [TXG]  Texas Guardians
+ 86.   5805921 [QCSF] Quebec StarFleet
+ 87.   5775009 [KAUA] Kauai Raiders
+ 88.   5701723 [UNSC] AlternateReality
+ 89.   5635820 [SPBZ] Space Balls
+ 90.   5453025 [GIL]  Solstice
+ 91.   5406432 [NEXT] Next Generation
+ 92.   5307614 [PWW]  PrestigeWrldwide
+ 93.   5253090 [DTWO] Cayde 6
+ 94.   5144507 [NASA] Kobayashi Maru 1
+ 95.   5128096 [STRS] Special Tactics
+ 96.   5109161 [CAS]  Casual
+ 97.   5009285 [WCF]  Wild Card Fleet
+ 98.   4996625 [CORE] Core Fleet
+ 99.   4897488 []     Unknown
+100.   4894653 [UFOP] federation uss
+
+Last updated: Tue Jul  2 18:44:16 CDT 2019
+```
