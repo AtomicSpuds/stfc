@@ -124,3 +124,43 @@ polite message or check if they got resources (over protected cargo) ;-)
 
 Screenshots are somoetimes necessary to prove various attack scenarios.
 The battle report shows who, the battle log 1st entry shows who attacked.
+
+-----------------------------------------------------------------------------
+
+Can we attack charts key:
+Common = Dil/Par/Tri
+Raw = Crystal/Gas/Ore
+Data = Decoded/Corrupt
+full = miner is no longer mining and full, mine is not 0
+opc = over protected capacity
+0 = mine is 0
+y = yes we can attack per RoE
+n = no we cannot attack per RoE
+```
+
+S|N|B|W|
+u|S|B|a|
+r| | |r|
+v| | |h|
+e| | |i|
+y| | |p|
+--------
+y|y|y|y|In Space
+---------
+n|n|n|y|<opc common
+n|n|y|y|<opc raw
+y|y|n|y|<opc data
+---------
+n|n|n|y|opc common
+y|n|y|y|opc raw
+y|y|y|y|opc data
+---------
+y|y|y|y|full common
+y|y|y|y|full raw
+y|y|y|y|full data
+---------
+y|y|y|y|0 common
+y|y|y|y|0 raw
+y|y|y|y|0 data
+---------
+```
