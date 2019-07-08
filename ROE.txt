@@ -116,18 +116,47 @@ miner can get their dailies in is the conclusion enough people have agreed
 with that it is now in RoE.
 
 Given that survey ships other than botnay bay are much slower on data mines,
-they are not weclome on data mines.
+they are not welcome on data mines.
 
 Note your 'Inbox' has a record of your last 20 battles, in the event you
 want to write down who attacked you or click on his name to send him a
 polite message or check if they got resources (over protected cargo) ;-)
 
-Screenshots are somoetimes necessary to prove various attack scenarios.
+Screenshots are sometimes necessary to prove various attack scenarios.
 The battle report shows who, the battle log 1st entry shows who attacked.
 
 -----------------------------------------------------------------------------
 
-Can we attack charts key:
+The following chart is @SpudsMcKinsey#3747's attempt to make more clear the verbiage above.  If it is not consistent with the herbage above, defer to the verb age above.  Any inaccuracies are @SpudsMcKinsey#3747's alone. Corrections requested!
+
+Can we attack charts...
+```
+
+S|N|B|E|W|
+u|S|B|n|a|
+r| | |v|r|
+v| | |o|h|
+e| | |y|i|
+y| | | |p|
+----------
+y|y|y|y|y|In Space
+-----------
+n|n|n|n|y|<opc common
+n|n|y|n|y|<opc raw
+n|n|y|y|y|<opc raw 29+
+y|y|n|y|y|<opc data
+-----------
+n|n|n|n|y|opc common
+y|n|y|y|y|opc raw
+y|y|y|y|y|opc data
+-----------
+y|y|y|y|y|full common/raw/data
+-----------
+y|y|y|y|y|0 common/raw/data
+-----------
+```
+Key:
+
 Common = Dil/Par/Tri
 Raw = Crystal/Gas/Ore
 Data = Decoded/Corrupt
@@ -136,31 +165,4 @@ opc = over protected capacity
 0 = mine is 0
 y = yes we can attack per RoE
 n = no we cannot attack per RoE
-```
-
-S|N|B|W|
-u|S|B|a|
-r| | |r|
-v| | |h|
-e| | |i|
-y| | |p|
---------
-y|y|y|y|In Space
----------
-n|n|n|y|<opc common
-n|n|y|y|<opc raw
-y|y|n|y|<opc data
----------
-n|n|n|y|opc common
-y|n|y|y|opc raw
-y|y|y|y|opc data
----------
-y|y|y|y|full common
-y|y|y|y|full raw
-y|y|y|y|full data
----------
-y|y|y|y|0 common
-y|y|y|y|0 raw
-y|y|y|y|0 data
----------
-```
+29+ = system levels 29 and up (with improper captain was stated by lummy with introduction of this RoE mid June, aka use Barot for crystal, Stonn for Ore, T'Pring for gas)
