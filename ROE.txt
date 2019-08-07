@@ -1,50 +1,17 @@
-Rules of Engagement (presented by Dark Council on Server 016)
+DC (Dark Council) and CoG (Council of Guardians) joinly changed to the
+following on Aug 4, 2019:
 
-1. Raw Materials -Ore/Crystal/Gas
+ OPC/Zero/Need it take it, stay to mine (Rule D). Rule D may only be used in a system you are not mining in and defending yourself is not a ROE violation.
 
-   Miners actively mining are protected unless over protected cargo
-   limit or on a zero node.
+Since at that time they also made it clear that is 'their' RoE and others
+ought to do as they see fit (not just be blind followers, and stop bugging
+lummy about RoE bits), it seems appropriate to list others RoE here:
 
-   Northstars actively mining can only be attacked on zero node or when
-   unable to mine (capacity reached).
-
-   Botany Bays are not protected when mining Raw Materials
-
-2. Data -Corrupted/Decoded
-
-   Botany Bays actively mining are protected unless over protected cargo
-   limit or on a zero node.
-
-   All other miners are unprotected when mining Data.
-
-3. Common Resources -Dilithium/Tritanium/Parsteel
-
-   Miners actively mining are protected unless over protected cargo
-   limit or on a zero node.
-
-4. Exceptions (Rule D)
-
-   a. In level 29 systems and above on raw material nodes, Envoys &
-   Fortunates can be removed in favor of a more efficient miner if no
-   other mines can be found and/or a daily needs to be completed.
-   Retaliation does not apply to either party when this rule is used.
-
-   b. Scopley events/wars/player made events/and to manage ROE
-   violations as deemed necessary by the alliance and/or appropriate
-   council. Notifications will be sent out to other alliances as far
-   ahead as feasible.
-
-5. Violations
-
-   a. Minor incidents should be worked out between the involved players,
-   especially in the case of a game bug.
-
-   b. Violations result in a 24/hr KOS between the alliance and the
-   aggressor if the issue cannot be worked out between the players.
-
-   c. Repeated violations result in retaliation against members of the
-   aggressor's alliance. Must be approved by leadership of the victim's
-   alliance and notification sent to aggressor's alliance.
+SCRG RoE:
+   
+1. Actively mining miners are protected unless:
+   a. Over protected cargo; or NORTHSTAR reached cargo capacity
+   b. On a zero node. Send a message after 0 node kill.
 
 -----------------------------------------------------------------------------
 
@@ -52,17 +19,15 @@ My own words:
 
 Fair Game to Attack:
 - a miner on a mine with 0 resources
-- some miners on some mines with recoverable cargo (see below)
+- miners on mines with recoverable cargo (see below)
 - a warship on a mine is fair game to attack
-- if you get bumped 'against roe rules' you can attack with your warship and
-  get your miner back on (or have help to do so)
 - warship in space
+- roe violations ('against roe rules') attacks give you permission to violate RoE to get back the mine you lost
 
 Can't Attack:
 - a miner actively mining with 0 recoverable cargo and resources still left
   in the mine
-- a NorthStar unless 0 node or full (not mining)
-- a survey ship not a botnay bay unless 0 node or full for Dil/Par/Tri
+- a NorthStar unless 0 node or full (not mining) (SCRG only)
 
 Common Courtesy:
 - do not monopolize resources (all nodes in one system to one alliance..)
@@ -127,6 +92,59 @@ Screenshots are sometimes necessary to prove various attack scenarios.
 The battle report shows who, the battle log 1st entry shows who attacked.
 
 -----------------------------------------------------------------------------
+
+
+-- historical RoE, active through Aug 4, 2019 --
+
+Rules of Engagement (presented by Dark Council on Server 016)
+
+1. Raw Materials -Ore/Crystal/Gas
+
+   Miners actively mining are protected unless over protected cargo
+   limit or on a zero node.
+
+   Northstars actively mining can only be attacked on zero node or when
+   unable to mine (capacity reached).
+
+   Botany Bays are not protected when mining Raw Materials
+
+2. Data -Corrupted/Decoded
+
+   Botany Bays actively mining are protected unless over protected cargo
+   limit or on a zero node.
+
+   All other miners are unprotected when mining Data.
+
+3. Common Resources -Dilithium/Tritanium/Parsteel
+
+   Miners actively mining are protected unless over protected cargo
+   limit or on a zero node.
+
+4. Exceptions (Rule D)
+
+   a. In level 29 systems and above on raw material nodes, Envoys &
+   Fortunates can be removed in favor of a more efficient miner if no
+   other mines can be found and/or a daily needs to be completed.
+   Retaliation does not apply to either party when this rule is used.
+
+   b. Scopley events/wars/player made events/and to manage ROE
+   violations as deemed necessary by the alliance and/or appropriate
+   council. Notifications will be sent out to other alliances as far
+   ahead as feasible.
+
+5. Violations
+
+   a. Minor incidents should be worked out between the involved players,
+   especially in the case of a game bug.
+
+   b. Violations result in a 24/hr KOS between the alliance and the
+   aggressor if the issue cannot be worked out between the players.
+
+   c. Repeated violations result in retaliation against members of the
+   aggressor's alliance. Must be approved by leadership of the victim's
+   alliance and notification sent to aggressor's alliance.
+
+....
 
 The following chart is @SpudsMcKinsey#3747's attempt to make more clear the verbiage above.  If it is not consistent with the verbaage above, defer to the verbiage above.  Any inaccuracies are @SpudsMcKinsey#3747's alone. Corrections requested!
 
