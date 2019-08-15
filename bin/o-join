@@ -291,6 +291,7 @@ while(<T>) {
 		my $str = $sorts->{$s}->{str};
 		$l =~ s/%O_C_STATS_${s}%/${str}/;
 	}
+	$l =~ s/%O_C_STATS_strength%/${os_str_strength}/;
 	$l =~ s/%O_C_GROUP%/${o_str_group}/;
 	if ($l =~ /%(battleship|explorer|surveyor|interceptor)(\[.*\]%|%)/) {
 		my @olist;
