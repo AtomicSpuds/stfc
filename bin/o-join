@@ -219,31 +219,40 @@ foreach my $o (sort {
 	    $o->{group};
 }
 
-my $os_str_attack = "";
-foreach my $o (sort {
-		if ($a->{reqp} == 0 && $b->{reqp} == 0) {
-			$b->{attack} <=> $a->{attack};
-		} elsif ($a->{reqp} == 0 && $b->{reqp} > 0) {
-			$b->{reqp} <=> $a->{reqp};
-		} elsif ($a->{reqp} > 0 && $b->{reqp} == 0) {
-			$b->{reqp} <=> $a->{reqp};
-		} elsif ($a->{reqp} > 0 && $b->{reqp} > 0) {
-			if ($a->{attack} == $b->{attack}) {
-				$b->{defense} <=> $a->{defense};
+my $sorts = { };
+@{$sorts->{attack}->{list}} = ('attack', 'defense', 'health');
+@{$sorts->{defense}->{list}} = ('defense', 'attack', 'health');
+@{$sorts->{health}->{list}} = ('health', 'defense', 'attack');
+
+foreach my $s (keys %{$sorts}) {
+	$sorts->{$s}->{str} = "";
+	my ($s1,$s2,$s3) = @{$sorts->{$s}->{list}};
+
+	foreach my $o (sort {
+			if ($a->{reqp} == 0 && $b->{reqp} == 0) {
+				$b->{$s1} <=> $a->{$s1};
+			} elsif ($a->{reqp} == 0 && $b->{reqp} > 0) {
+				$b->{reqp} <=> $a->{reqp};
+			} elsif ($a->{reqp} > 0 && $b->{reqp} == 0) {
+				$b->{reqp} <=> $a->{reqp};
+			} elsif ($a->{reqp} > 0 && $b->{reqp} > 0) {
+				if ($a->{$s1} == $b->{$s1}) {
+					$b->{$s2} <=> $a->{$s2};
+				} else {
+					$b->{$s1} <=> $a->{$s1};
+				}
 			} else {
-				$b->{attack} <=> $a->{attack};
+				$b->{s1} <=> $a->{s1};
 			}
-		} else {
-			$b->{attack} <=> $a->{attack};
-		}
-	} @officer_stats) {
-	$os_str_attack .= sprintf $osfmt,
-	    $o->{rank},
-	    $o->{'fmt_name'},
-	    $o->{curl}, $o->{maxl},
-	    $o->{strength}, $o->{attack}, $o->{defense}, $o->{health},
-	    $o->{curp}, $o->{reqp},
-	    $o->{group};
+		} @officer_stats) {
+		$sorts->{$s}->{str} .= sprintf $osfmt,
+		    $o->{rank},
+		    $o->{'fmt_name'},
+		    $o->{curl}, $o->{maxl},
+		    $o->{strength}, $o->{attack}, $o->{defense}, $o->{health},
+		    $o->{curp}, $o->{reqp},
+		    $o->{group};
+	}
 }
 
 my $o_str_group = "";
@@ -278,8 +287,10 @@ while(<T>) {
 	chomp($l=$_);
 	$l =~ s/%O_C_MANEAUVER_ABILITY%/${ocmanable}/;
 	$l =~ s/%O_C_STATS%/${os_str}/;
-	$l =~ s/%O_C_STATS_strength%/${os_str_strength}/;
-	$l =~ s/%O_C_STATS_attack%/${os_str_attack}/;
+	foreach my $s (keys %{$sorts}) {
+		my $str = $sorts->{$s}->{str};
+		$l =~ s/%O_C_STATS_${s}%/${str}/;
+	}
 	$l =~ s/%O_C_GROUP%/${o_str_group}/;
 	if ($l =~ /%(battleship|explorer|surveyor|interceptor)(\[.*\]%|%)/) {
 		my @olist;

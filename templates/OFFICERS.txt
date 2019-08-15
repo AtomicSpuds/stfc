@@ -240,6 +240,32 @@ Rank         Name                     \|/     \|/ \|/ \|/ \|/  \|/  Group
 ------------ ----------------------- ------- ---- --- --- --- ----- ----------------
 %O_C_STATS_attack%
 
+Stats again, sorted by Defense
+-------------------------------
+                                    Level (Current / Max)
+                                       |   Strength
+                                       |       |  Attack
+                                       |       |   | Defense
+                                       |       |   |   | Health
+                                       |       |   |   |   |  Promotion Progress
+                                       |       |   |   |   |    |
+Rank         Name                     \|/     \|/ \|/ \|/ \|/  \|/  Group
+------------ ----------------------- ------- ---- --- --- --- ----- ----------------
+%O_C_STATS_defense%
+
+Stats again, sorted by Health
+-------------------------------
+                                    Level (Current / Max)
+                                       |   Strength
+                                       |       |  Attack
+                                       |       |   | Defense
+                                       |       |   |   | Health
+                                       |       |   |   |   |  Promotion Progress
+                                       |       |   |   |   |    |
+Rank         Name                     \|/     \|/ \|/ \|/ \|/  \|/  Group
+------------ ----------------------- ------- ---- --- --- --- ----- ----------------
+%O_C_STATS_health%
+
 Officers by Group
 -----------------
 %O_C_GROUP%
