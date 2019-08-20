@@ -1,0 +1,10 @@
+Scopely Knows about these and has yet to fix them ...
+
+1. all faction ship structure researches not working as intended
+2. Vemet
+ a. don't use as captain when attacking a base, you will get stuck! (on a good day 2h fix after ticket submitted)
+ b. don't use as captain when mining and turtle attack coming, you will be mining but display not showing right after, you can move to another node but if someone lands on the node you were killed on they will actually attack and kill you
+ .. safe to warp into system, get killed in space, then proceed to mine after resurection
+3. warp speed modifying abilities (Helvia/Domitia/?) can sometimes (but not always!) confuse turtles, they can spawn en route and you can be killed before you arrive
+4. infinity battle - step off base or mine to end infinity battle with one of your ships
+5. base stuck - if you can't port, someone must damage your base, then once you repair it, whatever prevented you porting will be magically fixed
