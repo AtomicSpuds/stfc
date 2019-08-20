@@ -8,3 +8,5 @@ Scopely Knows about these and has yet to fix them ...
 3. warp speed modifying abilities (Helvia/Domitia/?) can sometimes (but not always!) confuse turtles, they can spawn en route and you can be killed before you arrive
 4. infinity battle - step off base or mine to end infinity battle with one of your ships
 5. base stuck - if you can't port, someone must damage your base, then once you repair it, whatever prevented you porting will be magically fixed
+6. The  Pure Gas, Pure Crystal, and Pure Ore research and additionally the faction research to reduce ore, crystal, and gas costs functions "server side". Unfortunately, for everyone, the client will still require that you have the UC/Rare amounts before research. Which, in effect, renders the research useless since you'd have to acquire more than you need. (From @Epictetus#0556)
+7. Attack a base, get 0 rss.  BugBug! Base is not empty, no damage either direction registered, nor does it show in the battle log, but you see the battle animation.  Try again with a different ship or move on to another base.
