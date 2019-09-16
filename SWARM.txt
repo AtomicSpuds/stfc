@@ -1,0 +1,25 @@
+start swarm with a free gift chest to get 'Containment Protocol' mission
+
+Go to Elona to get the next mission once 'Containment Protocol' is done
+
+Go to Niawellen after that
+
+In the refinery, refine swarm biomaterial
+
+lvl24:
+  1 batch 100bio = 8 100k parsteel tokens + 300k parsteel
+  1 batch ?00bio = 1 100k tritanium tokens + 110k tritanium
+  1 batch 100bio = 2  10k dilithium tokens + 22.5k dilithium
+
+Daily swarm requirements vary by ops level:
+
+```
+Ops   50x 50x 30x 25x 20x 10x 8x
+20    15              20      22
+24    15              24  26
+26/27 15              26      28
+28    15              28  30
+30/31 15              30  32
+32    15          32  32
+37    15  32  32  
+```
