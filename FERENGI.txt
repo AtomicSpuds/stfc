@@ -1,0 +1,25 @@
+Ferengi have landed.  They bring with them new bits to the game:
+
+ - Raw Latinum mines
+ - D'Vor (+12000% Mining Bonus for Raw Latinum)
+ - Latinum refinery tab
+   - 1 chest costs 28.1K raw latinum, yields 75 latinum + chance for D'Vor parts
+   - 2 chests cost 56.2K raw latinum, yields 2x 1 chest
+   - available at level16
+   - recipie improves if D'Vor is tier'ed up
+
+Note:
+
+ - "rich" nodes
+   - shimer brightly
+   - have double the speed of normal mines
+   - can be spawned from a normal mine with a 1:8 chance
+
+Mines are located at:
+
+S'mtharz (25), Cillers (25), Maclyyn (22), Hann (26), Nasturta (26), Ciara (26), Lainey (27), Biruin (27), Hoeven (27)
+Losti (28), Koltiska (28), Phelan (28), Noakyn (30), Gradientes (30), H'Atoria (30)
+Sinisser (31), Robeton (31), Tullias (31)
+Andoria (32), Vendor (34), Beta Penthe (34)
+Barnard's Star (40), Dessica (42), Wlb'puq (40)
+Suliban (40)
