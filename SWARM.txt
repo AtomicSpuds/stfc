@@ -23,3 +23,21 @@ Ops   50x 50x 30x 25x 20x 10x 8x
 32    15          32  32
 37    15  32  32  
 ```
+
+Daily swarm rewards vary by ops level:
+
+Bio Rewards
+```
+Ops  Watch G#1 G#2
+26    30    60  90
+```
+Frequency Modulators
+```
+Ops  Watch  G#1     G#2
+26    2400 2400    3200
+```
+Repair Speedups
+```
+Ops  Watch   G#1    G#2
+26   4x15m 8x15m  4x15m
+```
