@@ -1,0 +1,55 @@
+The ECS North Star is a freighter and sruvey vessel that has been in service for almost 100 years.  Boomer communities in the mid-2100s favored the North Star for space fairing and as a colonization ship.  Families and communites were born and raised on vessles of this class for generations and an entire network of trade ships has grown over the years.
+
+Base Build Stats
+```
+Strength   38,883
+Attack      3,550
+Defense     8,985
+Health     26,000
+
+Attack
+Officer Attack Bonus      0%
+Damage per round       3,079
+Armor Pierce             314
+Shield Pierce            314
+Accuracy                 314
+Critical Chance          12%
+Critical Damage         160%
+
+Defense
+Officer Defense Bonus     0%
+Armor                    599
+Shield Deflection        599
+Dodge                    599
+
+Health
+Officer Health Bonus      0%
+Shield Health            24K
+Hull Health              27K
+
+Utility
+Impulse Speed            110
+Warp Range                20
+Warp Speed               3.4
+Cargo Capacity         3,000
+Protected Cargo          360
+Mining Bonus            550%
+```
+Blueprints come from missions and events
+
+Known Missions:
+```
+System    Planet           Name                  Rewards
+Davidful  Nojusor          Reprisal              +3 NS, +250R, -132F, -88 K, +6 Nero, +3 Freight Vault
+Zhang     Seuac            Crossfire                    +100k PAR, +3 Koth
+Krah'Hor  Vos'Keth Station A Sharp Eye           +3 NS, +35k TRI, +3 Freight Vault, -19F 80K -51R
+           ...continued    Cloak and Dagger      +2 NS, +300k PAR, +2 Freight Vault, -81F -54K 160R
+Krah'Hor  Vos'Keth Station Theft of an Icon      +2 NS, +50 Klingon Credits, +2 Freight Vault, -16F 70K -43R
+Lorilla   Starbase 82      Corbonite Maneuver    +2 NS, +40 Fed Credits, +2 Freight Vault, 60F -39K -9R
+Australis Yagerap          Day of Honor          +1 NS, 1 Freight Vault, +2 Chang Shards, -13F 60K -35R
+           ...continued    Divided Attention     +2 NS, 40 Fed Credit, 2 Freight Vault, 60F -39K -9R
+           ...continued    Fallen Centurion      +1 NS, 40 Rom Credit, 1 Freight Vault, -26F -17K 60R
+Voss      Kyle             No Stone Unturned     +2 NS, 8 0718 Shards, 2 Freight Vault, 250F -198K -44R
+                           Requires: Gone Too Far
+Kaikara   ?
+```
