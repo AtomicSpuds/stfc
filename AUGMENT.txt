@@ -76,7 +76,7 @@ Augment Credits can buy...
   25 - 1 chest  200,000 PAR *timer* *limited* (lvl19?)
  150 - 1 chest  200,000 TRI *timer* *limited* (lvl19?)
   75 - 1 chest   20,000 DIL *timer* *limited* (lvl19?)
-
+     - 5 shards Khan (ally rep required)
  
 Corrupted Data can buy..
  150 -  50 Augment Credits (lvl19)
