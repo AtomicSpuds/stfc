@@ -1,0 +1,40 @@
+```
+TypeFaction (ef = explorer federation)
+|              Shipyard Level
+|   Bp  Power     Name
+e       11,758    Realta 
+b       11,283    Orion Corvette
+s       16,364    ECS Fortunate
+i       15,677    Phindra
+e       17,925    Turas
+e       22,490    Jellyfish
+b       18,373    Talla
+s       19,036    Envoy
+e       30,413    USS Franklin
+s       24,244    Botnay Bay
+i       37,847    Kehra
+e       59,128    Vahklas
+b   60  91,202    Kumari
+s   90  38,883    North Star
+s  120  23,017    Ferengi D'Vor
+s   40  53,201 26 ECS Horizon
+ik  80 136,377 26 D3 Class
+ik  80 136,377 26 Separatist D3 Class
+bk 100 210,007 28 Bortas
+ek 120 287,176 32 B'Rel
+ik 150 329,479 34 D4 Class
+sk 100  78,657 30 K'Vort
+ef  80 147,457 26 USS Mayflower
+if 100 202,263 28 USS Saladin
+bf 120 297,289 32 USS Intrepid
+ef 150 347,776 34 USS Entrprise
+sf 100  76,435 30 USS Antares
+br  80 145,314 26 Legionary
+er 100 217,418 28 Centurion
+ir 120 250,211 32 Gladius
+br 150 336,747 34 Augur
+sr 100  76,939 30 Valkis
+ia  80 136,377 26 Hijacked D3 Class
+ea  80 147,457 26 Hijacked USS Mayflower
+ba  80 145,314 26 Hijacked Legionary
+```
