@@ -1,0 +1,75 @@
+Factions: Federation, Klingon, Romunlan, 
+
+Earn reputation points by:
+- killing hostiles
+- completeing daily mining and hostile items
+- completing missions
+- pressing 'join now' on daily reputation event cards
+
+All three factions effected, either  1 -, 2 + or 1 +, 2 -
+
+```
+-2,000,000 is max negative
+  -500,000 is ENEMY
+   -25,000 is HOSTILE
+      -500 is UNTRUSTWORTHY
+-500 - 500 is NEUTRAL
+       500 is TOLERATED
+     5,000 is NEIGHBOR
+    25,000 is FRIENDLY
+   100,000 is FAVORED
+   500,000 is CONSORT
+ 2,000,000 is ASSOCIATE
+ 5,000,000 is ASSOCIATE barrier
+10,000,000 is RESPECTED
+10,000,500 is max positive
+```
+
+max positive:
+ - once maxed, locked, will not go down
+
+TOLERATED begins:
+ - daily (next server reset)
+ - reputation event cards (next app reset)
+
+Daily hostile levels, mining requirements, and reputation boosts
+are REPUTATION based
+```
+         Hostiles   g3     Faction  Recruit
+Rep      10x 25x   Mats  Rep   Cred Tokens
+TOLERATED 22  23
+NEIGHBOR  24  25
+FRIENDLY  26  27  10000 
+FAVORED   28  29  12500 +11750  +70 +100
+CONSORT   30  31  15000 
+ASSOCIATE 32  33  17500
+ASSOCIATE 34  35  20000
+RESPECTED 36  37  22500
+```
+
+Also rewarded is 3* raw materials, presuming you complete the mining.
+The amount awarded depends on reputation.
+
+```
+F Miner      gas
+F Excavator  gas ore crystal
+K Miner      crystal
+K Excavator  crystal gas ore
+R Miner      ore
+R Excavator  ore gas crystal
+```
+
+Consider the Miner 3* material to be `m3*` and the Excavator 3* material
+to be `e3*1`, `e3*2`, `e3*3` then you can follow the following table:
+
+```
+Rep        m3*   e3*1 e3*2 e3*3
+TOLERATED
+NEIGHBOR
+FRIENDLY
+FAVORED   2500   2500 2000 2000
+CONSORT  
+ASSOCIATE
+ASSOCIATE
+RESPECTED
+```
