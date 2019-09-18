@@ -1,0 +1,39 @@
+Fractured Empire: Solo Event
+
+Damage to get to a tier
+```
+Ops       T1     T2     T3     T4     T5
+26/27  6.75M  9.44M 12.65M 16.87M 33.75M
+28/29 10.12M 20.25M 30.37M 40.50M 81.00M
+```
+
+Rewards
+
+Ops 26
+```
+T1  3x10K DT, 2x100K TT,  600 O3
+T2  6x10K DT, 5x100K TT, 1200 O3
+T3  8x10K DT, 7x100K TT, 1800 O3, 5UO3, 5UC3
+T4 1x100K DT, 1x1M TT, 6x10K DT, 4x100K TT, 3600 O3, 10 UO3, 10 UC3
+T5 2x100K DT, 2x1M TT, 6x10K DT, 3x100K TT, 6000 O3, 15 UO3, 15 UC3
+```
+
+Ops 28
+```
+T1 3x10K DT, 3x100K TT,  600 O3
+T2 6x10K DT, 5x100K TT, 1200 O3
+T3 9x10K DT, 8x100K TT, 1800 O3, 5 UO3
+T4 9x10K DT, 1x100K DT, 6x100K TT, 1x1M TT, 3600 O3, 10 UO3, 10 UC3
+T5 1x10K DT, 3x100K DT, 6x100K TT, 2x1M TT, 6000 O3, 20 UO3, 20 UC3
+```
+
+Key
+```
+R = raw
+O3 = 3* Ore
+C3 = 3* Crystal
+G3 = 3* Gas
+PT = Parsteel Token
+TT = Tritanium Token
+DT = Dilithium Token
+```
