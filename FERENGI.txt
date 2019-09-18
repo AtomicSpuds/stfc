@@ -46,4 +46,7 @@ Same mine, different ships, different speeds:
 Envoy   t7l35 238/h
 Horizon t5l22 352/h
 NS      t8l40 368/h
+
+Envoy   t7l35 342/h vs 663/h
+Horizon t5l25 506/h vs 935/h
 ```
