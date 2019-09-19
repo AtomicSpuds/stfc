@@ -17,7 +17,7 @@ TypeFaction (ef = explorer federation)
 `e       59,128    `Vahklas
 `b   60  91,202    `Kumari
 `s   90  38,883    `#northstar
-`s  120  23,017    `Ferengi D'Vor
+`s  120  23,017    `#dvor
 `s   40  53,201 26 `ECS Horizon
 `ik  80 136,377 26 `D3 Class
 `ik  80 136,377 26 `Separatist D3 Class
