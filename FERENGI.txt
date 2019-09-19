@@ -1,12 +1,12 @@
 Ferengi have landed.  They bring with them new bits to the game:
 
  - Raw Latinum mines
- - D'Vor (+12000% Mining Bonus for Raw Latinum)
+ - #dvor (+12000% Mining Bonus for Raw Latinum)
  - Latinum refinery tab
-   - 1 chest costs 28.1K raw latinum, yields 75 latinum + chance for D'Vor parts
+   - 1 chest costs 28.1K raw latinum, yields 75 latinum + chance for #dvor parts
    - 2 chests cost 56.2K raw latinum, yields 2x 1 chest
    - available at level16
-   - recipie improves if D'Vor is tier'ed up
+   - recipie improves (process more) if #dvor is tier'ed up
 
 Note:
 
@@ -35,10 +35,13 @@ Mines have two speeds, normal vs rich.  Sorted by speed then by faction:
 342/h vs 663/h
   F Andoria[34] (warp 30)
 
+402/h vs 070/h
+  R Dessica[42] (warp 39)
+
 ???/h vs ???/h
   F Barnard's Star[40] (warp 40)
   K Beta Penthe[34] (warp 33), Wlb'puq[40] (warp 40)
-  R Vendor[34] (warp 32), Dessica[42] (warp 39)
+  R Vendor[34] (warp 32), 
   N Suliban[40] (warp 40)
 
 Same mine, different ships, different speeds:
@@ -47,6 +50,9 @@ Envoy   t7l35 238/h
 Horizon t5l22 352/h
 NS      t8l40 368/h
 
-Envoy   t7l35 342/h vs 663/h
-Horizon t5l25 506/h vs 935/h
+Envoy   t7l35 342/h vs  663/h
+Horizon t5l25 506/h vs  935/h
+
+Envoy   t7l35 402/h vs  707/h
+NS      t7    621/h vs 1092/h
 ```
