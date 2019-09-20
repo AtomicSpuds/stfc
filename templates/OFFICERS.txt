@@ -47,10 +47,10 @@ Nevertheless, I have figured out a few things:
      17  29.7K
      18  31.8K
      19  33.2K
-     20
-     21
-     22
-     23
+     20  69.6K
+     21  84.8K
+     22  96.8K
+     23 105.6K
      24
      25
      26
