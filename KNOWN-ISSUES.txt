@@ -1,12 +1,23 @@
 Scopely Knows about these and has yet to fix them ...
 
-1. all faction ship structure researches not working as intended
-2. Vemet
+**Research**
+1. All faction ship structure researches not working as intended
+2. The  Pure Gas, Pure Crystal, and Pure Ore research and additionally the faction research to reduce ore, crystal, and gas costs functions "server side". Unfortunately, for everyone, the client will still require that you have the UC/Rare amounts before research. This is basically `cash back` but rather `raw material back` so you have to acquire more than you need.
+
+**Officers**
+1. Vemet
  a. don't use as captain when attacking a base, you will get stuck! (on a good day 2h fix after ticket submitted)
  b. don't use as captain when mining and turtle attack coming, you will be mining but display not showing right after, you can move to another node but if someone lands on the node you were killed on they will actually attack and kill you
+ c. known to not activate if you don't get to the 2nd round of battle, envoy vs 1.5m trained fighter for exxample
  .. safe to warp into system, get killed in space, then proceed to mine after resurection
-3. warp speed modifying abilities (Helvia/Domitia/?) can sometimes (but not always!) confuse turtles, they can spawn en route and you can be killed before you arrive
-4. infinity battle - step off base or mine to end infinity battle with one of your ships
-5. base stuck - if you can't port, someone must damage your base, then once you repair it, whatever prevented you porting will be magically fixed
-6. The  Pure Gas, Pure Crystal, and Pure Ore research and additionally the faction research to reduce ore, crystal, and gas costs functions "server side". Unfortunately, for everyone, the client will still require that you have the UC/Rare amounts before research. Which, in effect, renders the research useless since you'd have to acquire more than you need. (From @Epictetus#0556)
-7. Attack a base, get 0 rss.  BugBug! Base is not empty, no damage either direction registered, nor does it show in the battle log, but you see the battle animation.  Try again with a different ship or move on to another base.
+2. Helvia/Domitia
+warp speed modifying abilities can sometimes (but not always!) confuse turtles, they can spawn en route and you can be killed before you arrive
+
+**Gameplay**
+1. infinity battle
+ move another ship or step off base or mine to end
+2. base stuck
+ if you can't port, someone must damage your base, then once you repair it, whatever prevented you porting will be magically fixed
+3. Attack a base, get 0 rss.  BugBug! Base is not empty, no damage either direction registered, nor does it show in the battle log, but you see the battle animation.  Try again with a different ship or move on to another base.
+4. Building/Research/Ship Build counters stuck
+   you can get notifications of 'help' but counters don't move at times. restart app shows correct value (retrieves counter from server)
