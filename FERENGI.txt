@@ -42,7 +42,7 @@ Mines have two speeds, normal vs rich.  Sorted by speed then by faction:
   F Barnard's Star[40] (warp 40)
   K Beta Penthe[34] (warp 33), Wlb'puq[40] (warp 40)
   R Vendor[34] (warp 32), 
-  N Suliban[40] (warp 40)
+  N Suliban[35] (warp 40)
 
 Same mine, different ships, different speeds:
 ```
