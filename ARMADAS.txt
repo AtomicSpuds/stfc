@@ -1,0 +1,17 @@
+Getting started..
+
+Unlock Armada Control Center in station research, requires Armada Tactical Cores
+
+Using Armada
+ - join Armada
+ - have a ship idle within the zone between start of attack and 15min timer
+ - only one ship per player may participate
+ - strongest ship per player in zone participates
+ - backups may be useful if other players take out your strongest
+
+Max ships: 2-5, depending on leader's Armada Control Center
+
+Armada Credits - earned defeating Armada Hostiles, purchases in Alliance Store 
+Armada Directives - needed to start an armada
+ - available: Alliance Store, Daily Goals, upgrading Armada Control Center
+
