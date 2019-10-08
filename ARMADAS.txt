@@ -1,9 +1,23 @@
 Getting started..
 
-Unlock Armada Control Center in station research, requires Armada Tactical Cores
+ Unlock Armadas
+ build Armada Control Center
+
+Path 1: P2P
+
+  buy scopely pack and have what you need to unlock research and build building
+
+Path 2: F2P
+
+  complete events
+  take part in Armadas from someone who has built the Armada Control Center
+  collect Uncommon Armada Credit as rewards for winning
+  spend Uncommon Armada Credit to get Armada Tactical Cores 
+  use 1000 Tactical Cores to Unlock Armadas
 
 Using Armada
- - join Armada
+ - one person starts an armada, spends an Armada Directive
+ - others join the Armada
  - have a ship idle within the zone between start of attack and 15min timer
  - only one ship per player may participate
  - strongest ship per player in zone participates
