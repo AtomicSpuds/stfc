@@ -1,25 +1,19 @@
+:aug:
 Strange is this new faction.
 
 To unlock, you visit Lycia, Midnight, or Amador.
 
-Once the missions complete, your faction store is unlocked and you can claim
-the free 6 bp per 22h in addition to the 36 you got from the missions.
+Once the missions complete, your faction store is unlocked and you can claim the free 6 bp per 22h in addition to the 36 you got from the missions.
 
-A few days later (if you don't buy the rest) you can have the build parts to
-build.
+A few days later (if you don't buy the rest) you can have the build parts to build.
 
 Look for a free 1M tritanium card in the free chest area.
 
-Once built, you complete the 'build the Botnay Bay' mission that then
-unlocks the path into augment space.  Further missions will unlock further
-paths, but once your path is unlocked, any ship can set course that has
-a high enough warp level.
+Once built, you complete the `build the Botnay Bay` mission that then unlocks the path into augment space.  Further missions will unlock further paths, but once your path is unlocked, any ship can set course that has a high enough warp level.
 
-Look at the faction store for cards to unlock officers by purchasing chests
-with augment faction credits.
+Look at the faction store for cards to unlock officers by purchasing chests with augment faction credits.
 
-When entering augment space, the `mines' are clustered in groups of 3 with
-a 3d object pointing to where they are. The actual mine location is invisible.
+When entering augment space, the `mines' are clustered in groups of 3 with a 3d object pointing to where they are. The actual mine location is invisible.
 
 The data you mine can be used to purchase credits from the faction store which
 in turn can be used to purchase things from the augment faction store.
