@@ -1,4 +1,4 @@
-Factions: Federation, Klingon, Romunlan, 
+Factions: :fed: Federation, :klg: Klingon, and :rom: Romunlan
 
 Earn reputation points by:
 - killing hostiles
@@ -68,8 +68,11 @@ TOLERATED
 NEIGHBOR
 FRIENDLY
 FAVORED   2500   2500 2000 2000
-CONSORT  
+CONSORT   3000   3000 2400 2400
 ASSOCIATE
 ASSOCIATE
 RESPECTED
 ```
+
+New bits appear at different levels:
+CONSORT unlocks 'Modulated Feceration' or 'Evasive Klingons' or 'Fortified Romulans' depending on your faction.
