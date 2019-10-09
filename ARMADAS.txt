@@ -1,7 +1,11 @@
+Prereq
+
+ Level 23
+
 Getting started..
 
  Unlock Armadas
- build Armada Control Center
+ build #armada-control-center (ACC)
 
 Path 1: P2P
 
@@ -10,7 +14,7 @@ Path 1: P2P
 Path 2: F2P
 
   complete events
-  take part in Armadas from someone who has built the Armada Control Center
+  take part in Armadas from someone who has built the ACC
   collect Uncommon Armada Credit as rewards for winning
   spend Uncommon Armada Credit to get Armada Tactical Cores 
   use 1000 Tactical Cores to Unlock Armadas
@@ -23,9 +27,31 @@ Using Armada
  - strongest ship per player in zone participates
  - backups may be useful if other players take out your strongest
 
-Max ships: 2-5, depending on leader's Armada Control Center
+Max ships: 2-5, depending on leader's ACC
 
 Armada Credits - earned defeating Armada Hostiles, purchases in Alliance Store 
 Armada Directives - needed to start an armada
- - available: Alliance Store, Daily Goals, upgrading Armada Control Center
+ - available: Alliance Store, Daily Goals, upgrading ACC
 
+Alliance Store
+
+ops23-27
+  250 AC = 100 Armada Directives (6d15h timer)
+
+ops27
+  675 UAC = ? Armada Tactical Cores (22h timer)
+ 1350 UAC = ? Uncommon Armada Pack (22h timer)
+ops28-29
+ 1100 UAC = ? Armada Tactical Cores (22h timer)
+      UAC = ? Uncommon Armada Pack (22h timer)
+ops?
+ 1800 UAC = ? Armada Tactical Cores (22h timer)
+
+
+Legend 
+
+AC = Alliance Credit
+UAC = Uncommon Armada Credit
+
+Armada Directive = tokens you insert into your ACC
+Uncommon Armada Credit = spent in the Alliance Store (see above)
