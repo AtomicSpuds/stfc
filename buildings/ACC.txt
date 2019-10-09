@@ -1,0 +1,41 @@
+Requires:
+
+  Unlock Armada Control Center
+   Needs:
+   - 1000 Armada Tactical Cores
+   - 96.1K tri
+   - 48.0K dil
+   - 2d02h
+
+Armada Control Center
+```
+Lvl   Par     Tri   Dil  Cores 3* UG Rewards
+  0  52.0K  39.0K  5205
+  1                                   5 AD
+  2  57.6K  43.2K  5767               5 AD
+  3  60.7K  45.5K  6071              10 AD
+  4                                  10 AD
+  5  67.2K  50.4K  6726              15 AD
+  6                                  15 AD
+  7  74.5K  74.5K  7453              20 AD
+  8  78.4K  58.8K  7846              20 AD
+  9  82.5K  61.9K  8259   200        25 AD 
+ 10  86.9K  65.1K  8693   251        25 AD
+ 11  91.5K  68.6K  9150   312        30 AD
+ 12  96.3K  72.2K  9632   388        30 AD
+ 13                                  40 AD
+ 14 106.7K  80.0K 10600   599        40 AD
+ 15                                  50 AD
+ 16 118.2K  88.6K 11800   942        50 AD
+ 17 124.4K  93.3K 12400  1228        60 AD
+ 18                                  70 AD
+ 19 137.9K 103.4K 13700  2454        85 AD
+ 20
+ 21
+ 22
+ 23
+ 24 548.6K 322.7K 34400  4282      1 
+```
+
+SEE ALSO
+        #armadas 
