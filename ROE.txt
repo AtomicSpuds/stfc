@@ -1,3 +1,28 @@
+**UA** (United Alliances) adoped the following
+(effective **Oct 2, 2019** after evening server reset)
+
+1. **Raw Materials** -:ore: Ore/:crystal: Crystal/:gas: Gas
+  a. Miners actively mining are protected unless OPC or on a 0 node except:
+  b. Botany Bays and D’Vors are not protected. 
+  c. North Stars are protected when actively mining unless on a 0 node or at capacity. Due to historical rogue activity, players are advised to mine with NS at their own risk.
+  D. LEVEL 29 AND ABOVE SYTEMS and RAW MATERIALS ONLY. Messaging is required as to the reason for the use of this rule. 
+   d1. Envoys & Fortunates should not be used and can be removed if no other mines can be found and/or a daily needs to be completed. Must stay to mine. 
+   d2. Fighting back against a rule D eviction is not considered a RoE violation and should be expected, but the attacker must stay to mine.
+----------
+2. **Specialty Materials** - :corrupteddata::decodeddata: Data/:rawlatinum: Latinum
+All survey-class ships actively mining are protected unless OPC or on a 0 node, or unless taken over in favor of a Botany Bay for Data, or a D'Vor for Latinum. No other exceptions. 
+----------
+3. **Common Resources** -:dilithium: Dilithium/:tritanium: Tritanium/:parsteel: Parsteel
+Miners actively mining are protected unless OPC or on a 0 node. No other exceptions. 
+----------
+**Notes**
+RoE may be suspended for Scopley events/wars/player made events/and to manage ROE violations as deemed necessary and voted by the UA. Notifications will be sent out to other alliances as far ahead as feasible.
+----------
+**Violations **
+Any violations are to be handled between the two parties involved up to and/or including alliance admirals.
+
+-----------------------------------------------------------------------------
+
 DC (Dark Council) and CoG (Council of Guardians) joinly changed to the
 following on Aug 4, 2019:
 
