@@ -1,0 +1,36 @@
+Several officer guides, they are more in depth.  This is more of a basic intro.
+
+Each officer has a captain maneuver and an officer ability.
+
+Captain maneuvers are available if you put the corresponding officer in the captain slot (middle spot) on your ship.
+
+Officer abilities (including the captain's) are available if you put the corresponding officer on the bridge (top three spots) on your ship.
+
+With three officers on the bridge, you potentially have four abilities activated: cap+off, off, off.  Potentially because some only activate in certain circumstances, the description of each will tell you what it does and when it should activate.
+
+When deciding, for example, how to mine as fast as possible, make sure the captain ability matches your task at hand, first.
+
+Barrot = crystal, Stonn = ore, T'Pring = gas, Helvia = parstel, Domitia = dilithium, K'Bisch = tritanium
+
+Once you've loaded the appropriate captain then use the 'group' option for sorting officers and everybody with a lightning bolt is in your group.
+
+Notible officer abilities include:
+- Helvia: 'Gold Rush' makes warp travel faster on an empty cargo hold
+- T'Pring: 'Hidden Stash' increases cargo protection limit
+- Stonn 'Pack Rat' increases the cargo size of the ship
+
+For a mining event, one may wish to have 3 envoys out. Each have two mining officers because that lightning bolt means synergy.  If you plunk e.g. domitia next to cap Barrot you end up with a yellow line between them and a % .. play with it till you have one of Domitia/Helvia/K'Bisch with the highest %'age (hint: it'll be 30%). This means that the officer you just placed on the bridge will increase the captain ability by 30% so if your barot increases crystal mining by 70% like mine, another 30% meeans 100% increase in crystal mining speed.
+
+An example triple pairing could be:
+- Stonn + Helvia
+- Barot+ K'bisch
+- T'Pring+Domitia
+
+The 3rd officer on he bridge cannot have synergy because there are only 6 mining officers.  However, Cadet McCoy adds 10% to any captain ability. So place him with the crew you want faster mining from.  One could put Cadet Scotty in with their crystal crew, for example, because of the large nodes in Pekka and Envoy's can't get there.
+
+If only two survey ships are out mining, best to place all 6 mining crew in the bridge of both, because the % increase due to synergy is maximized if your goal is speed.
+
+Other more detailed officer guides are:
+- From Epictetus .. https://docs.google.com/document/d/e/2PACX-1vTYZ10pMneyY1uS8aMrHZqTjy_srALXc3np6EiMttD5FcvoWAcL2HpWkZa4snyYWajHr78FRbtPcbpX/pub#h.g5jiwufgqu26
+- From SpudsMcKinsey .. https://github.com/AtomicSpuds/stfc/blob/master/OFFICERS.txt
+- https://lonewolfonline.net/star-trek-fleet-command-officer-assignments/
