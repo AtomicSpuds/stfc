@@ -1,40 +1,64 @@
-Prereq
+**Armada Prerequisites**
 
  Level 23
 
-Getting started..
+**Get started**
 
  Unlock Armadas
- build #armada-control-center (ACC)
+ build #Armada-control-center (ACC)
 
-Path 1: P2P
-
+**Path 1: P2P**
   buy scopely pack and have what you need to unlock research and build building
 
-Path 2: F2P
-
+**Path 2: F2P**
   complete events
   take part in Armadas from someone who has built the ACC
   collect Uncommon Armada Credit as rewards for winning
   spend Uncommon Armada Credit to get Armada Tactical Cores 
   use 1000 Tactical Cores to Unlock Armadas
+  build ACC
 
-Using Armada
- - one person starts an armada, spends an Armada Directive
+
+**Using Armada**
+ - one person starts an Armada, spends 100 Armada Directives
+ - max ships 2-5, depending on leader's ACC level
  - others join the Armada
+   - click link in alliance chat to see oragami Armada pin
+   - select ship in drydock to participate
+   - click on oragami Armada pin
+   - click 'join'
+   - ship will start warp to land near Armada pin
  - have a ship idle within the zone between start of attack and 15min timer
  - only one ship per player may participate
  - strongest ship per player in zone participates
- - backups may be useful if other players take out your strongest
+ - strongest ships will be selected other players selecting 'join' will be
+   backup
+ - person starting Armada must be in the circle or it is canceled, no refund
+   of Armada Directives
+ - grey triangle indicas you joined but are either outside the circle or backup
+ - pink triangle indicates you are currently joined and ready to rumble
 
-Max ships: 2-5, depending on leader's ACC
+**New Resources**
+_Uncommon Armada Credit_
+ - spent in the Alliance Store (see below)
+ - acquired defeating Armada Targets
+ - acquired purchasing an Armada pack for real money
+_Armada Directive_
+ - spent 100 at a time to create an Armada, pinned on a target
+ - acquired through updating ACC
+ - acquired by purhasing Armada Directives in Alliance Store
+ - acquired by achieving 4th tier in dailies
+    ops27 10 AD
+_Armada Tactical Core_
+ - 1000 required to Unlock Armada
+ - to update to level 10 ACC you need 200, more each level after that
+ - acquired by purchasing Armada Tactical 
 
-Armada Credits - earned defeating Armada Hostiles, purchases in Alliance Store 
-Armada Directives - needed to start an armada
- - available: Alliance Store, Daily Goals, upgrading ACC
+**Legend**
+AC = Alliance Credit
+UAC = Uncommon Armada Credit
 
-Alliance Store
-
+**Alliance Store**
 ops23-27
   250 AC = 100 Armada Directives (6d15h timer)
 
@@ -47,11 +71,7 @@ ops28-29
 ops?
  1800 UAC = ? Armada Tactical Cores (22h timer)
 
-
-Legend 
-
-AC = Alliance Credit
-UAC = Uncommon Armada Credit
-
-Armada Directive = tokens you insert into your ACC
-Uncommon Armada Credit = spent in the Alliance Store (see above)
+**Daily Rewards**
+Ops Directives
+24   5
+27   5 10
