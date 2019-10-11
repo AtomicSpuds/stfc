@@ -61,11 +61,11 @@
 31 Cap "Hendorff"     Excellent Security     +20% dodge, armor, shield deflection if combat starts with hull health < 60%
 31 Off "Hendorff"     Explorer Trainer       +20% ship xp on explorers
 32 Cap "L'Nar"        Romulan Health         +20% health of officers
-32 Off "L'Nar"        Klingon Pursue         +25% damage against klingon ships of crew's attack
+32 Off "L'Nar"        Klingon Pursue         +25% damage against klingon ships by crew attack
 33 Cap "Leslie"       Minor Damage Control   + 5% restore hull if hull health is < 35%
 33 Off "Leslie"       Battleship Trainer     +20% ship xp on battleships
 34 Cap "Linkasa"      Way of the Klingon     +10% defense of all officers after winning a battle
-34 Off "Linkasa"      Defensive Tactics      +25% armor of ship by total attack of crew
+34 Off "Linkasa"      Defensive Tactics      +25% armor of ship by crew attack
 35 Cap "Severus"
 35 Off "Severus"
 36 Cap "Yan'agh"
@@ -86,8 +86,8 @@
 43 Off "Keenser"
 44 Cap "Kerla"
 44 Off "Kerla"
-45 Cap "Krell"
-45 Off "Krell"
+45 Cap "Krell"     Retribution +30% hull breach to opponent 1 round, each time get shield damage 
+45 Off "Krell"        Federation Contacts    +25% damage against federation ships by crew defense
 46 Cap "Kumak"
 46 Off "Kumak"
 47 Cap "Kuron"
@@ -112,8 +112,8 @@
 56 Off "Tal"
 57 Cap "Uhura"
 57 Off "Uhura"
-58 Cap "Yuki"
-58 Off "Yuki"
+58 Cap "Yuki" Disrupting Field -10% opponent shield health each round
+58 Off "Yuki" Romulan Grudge +25% damage against romulan ships by crew health
 59 Cap "Barot"
 59 Off "Barot"
 60 Cap "Carol"
