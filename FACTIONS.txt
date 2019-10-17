@@ -13,7 +13,7 @@ All three factions effected, either  1 -, 2 + or 1 +, 2 -
   -500,000 is ENEMY
    -25,000 is HOSTILE
       -500 is UNTRUSTWORTHY
--500 - 500 is NEUTRAL
+-499 - 499 is NEUTRAL
        500 is TOLERATED
      5,000 is NEIGHBOR
     25,000 is FRIENDLY
