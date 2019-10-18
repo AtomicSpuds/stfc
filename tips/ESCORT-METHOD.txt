@@ -1,0 +1,53 @@
+Escort Method
+
+If a system requires an escord, there are various ways to end up with a ship
+in the system free from attack by `turtles` aka trained fighters in #faction
+space or bounty hunters in #augment space.
+
+Note: negative #augment or negative #faction will produce a warning and a
+turtle upon entering a system related to that faction.  In #faction space,
+some systems do not produce warnings until you are ENEMY reputation.
+
+There are three escort techniques:
+
+1) 2+ ship escort
+ - Select the destination system in galaxy view
+ - note the direction the ship(s) will enter the system
+ - tap 'view system'
+ - scroll in the system to the edge nearest the entry direction
+ - zoom in all the way
+ - tap once near the boarder inside the system
+ - switch between drydocks of ships you wish to send into the system, and note
+   the warp transit timing
+ - taking into account a 5s delay to charge and start the warp transit timing,
+   ensure that the first vessle into the system is the ship you either want to
+   turtle farm for ship xp, or destroy on a turtle, or exit the system once the
+   other(s) arrive
+ - taking into account a 5s delay to charge and start the warp transit timing,
+   ensure that the 2nd and any subsequent vessles enter the system within a
+   small window of time after the 1st vessle drops out of warp.
+ things to note..
+   #augment systems seem to like to have < 5s delay between 1st and 2nd
+   #faction systems have been seen to tolerate < 30s delay but keep it in 15s
+      or you may get multiple warnings and multiple turtles
+
+2) distract enemy by hitting turtle
+ setup: you have a ship that is a turtle magnet but want to call off the turtles.  This can be because you blinked and didn't get the 'ship escort' method timing right, or you are trading miners and don't have a ship available for escort, any number of reasons to be in his scenario.
+ - another ship hitting your turtle turns the turtle magnet setting to them and your ship is now free to stay in the system
+ use cases:
+ a) trading miners in a hostile system 
+   - enter the system with replacement miner, get warning
+   - step off the mine with the old miner
+   - step on the mine with the new miner
+   - hit the turtle with the old miner (note: death by hostile lets you get a free trip home and keep all cargo even opc cargo)
+ b) helpful friends
+   - enter the system with a miner, get warning
+   - friends ship kills your turtle, they become the turtle magnet
+
+3) vemet
+ - a ship entering a hostile system can be killed by a turtle and if vemet is captain
+ - turtles stop going after the ship after it has resurected
+ - mostly only makes sense for data mining since joaquin data speed ability is officer maneuver not captain ability
+
+**SEE ALSO**
+        #augment, #faction, #tips-and-techniques-overview
