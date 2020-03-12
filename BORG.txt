@@ -1,0 +1,58 @@
+20200122 - Borg failed to land!  Well, they squirmed around Apple's late app release anyway...
+
+**p2p**
+  $19.98 Borg Prem Rewars Unlock = unlocks premium rewards in event store
+  $49.99 Ultra Borg Pack = 50k borg points++, unlocks mission via 'Borg Reconnaisance'
+  $49.99 Borg Officer Pack = 50 shards for One of Ten (40 to unlock) ++
+  $99.99 Nanoprobes Pack = 12.8k Active Nanoprobe ++
+
+**f2p**
+  RECRUIT section has 2x chance card for Borg Recruit using Ultra Recruit Tokens
+  BFG events gets borg points
+  'Borg Reconnaisasance' has tiers for borg points, at 48k get x10 Mission Key
+  Mission Key unlocks Borg missions fromg gift/chests section
+
+20200219 - Borg Act 2
+
+**new bits**
+_Transwarp Cell_
+  used to travel to a borg system 
+  limit of 8 in inventory
+  free chest every 22hrs gets more
+_Borg Tactical Probes_
+  special hostiles in borg systems
+  drop Inert NanoProbes
+```
+     Probe
+ lvl Min Max
+  25 128 178
+```
+_Inert NanoProbes_
+  refine to Active NanoProbes
+    promote Borg offiers
+  refine to Charged NanoProbes
+    resource required to tier Vi'Dar
+    resource to get Faction / Reputation credits
+_ViDar_
+  ship designed to fight Borg Tactical Probes
+  build parts available
+    milestones 6-9 (50% of bp)
+    final milestone (50% of bp)
+    purchase packs (50% or 100% packs)
+  bp available to 16+
+  shipyard25 required to build
+_Borg Avatar_
+  only available in premium events store
+_Mission Unlock_
+  80 Borg Mission Keys required
+    in various events
+    in Vi'Dar Unlock Pack
+_Premium Mission bundle_
+  appears after Vi'Dar is built
+_Missions_
+  _And You Will Know Us..Part 2_ (cost: 20 borg mission keys)
+  _Those Left Behind_ (cost: 40 Borg mission keys)
+  _Ripples in a Pond_ (cost: 80 Borg mission keys, requires Vi'Dar to be built)
+
+Note:
+ - gift chest appears after building Vi'Dar to get 2 transwarp coils per day
