@@ -69,4 +69,3 @@ Key
 3.. = Grade 3 materials
 
 RL = Refinery level
-ML = My Level
