@@ -72,8 +72,8 @@
 36 Off "Yan'agh"
 37 Cap "Zhou"
 37 Off "Zhou"
-38 Cap "Vemet"
-38 Off "Vemet"
+38 Cap "Vemet"        Romulan Tenacity       + 5% hull repaired after battle lost 'resurection'
+38 Off "Vemet"        Feel the Heat          +40% health of officers on ship..  if opponent burning, decreases opponent shield health
 39 Cap "Azetbur"
 39 Off "Azetbur"
 40 Cap "Chang"
