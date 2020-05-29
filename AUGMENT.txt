@@ -1,32 +1,47 @@
-:aug:
-Strange is this new faction.
+Augment (:aug:) has some saying it is a waste of time. I submit that the
+following benifits are not a waste of time:
 
-To unlock, you visit Lycia, Midnight, or Amador.
+ - Khan's crew (only place in the game to unlock and get shards for them) helps bust bases
+ - rewards during data mining events
+ - 10k-50k oxp per day once Khan's crew has max shards (note: leveling up not required)
 
-Once the missions complete, your faction store is unlocked and you can claim the free 6 bp per 22h in addition to the 36 you got from the missions.
+Generally speaking, once you have unlocked Augment Faction Space, the following is a brief synopsis:
 
-A few days later (if you don't buy the rest) you can have the build parts to build.
+   { decoded data , corrupt data } -> { augment rep, augment credit }
 
-Look for a free 1M tritanium card in the free chest area.
+   { augment credit } -> { plutonium (common, uncommon, rare), independent credits, recruit tokens }
 
-Once built, you complete the `build the Botnay Bay` mission that then unlocks the path into augment space.  Further missions will unlock further paths, but once your path is unlocked, any ship can set course that has a high enough warp level.
+To get started and unlock Augment space, you must go through some missions.
+Visit Lycia, Midnight, or Amador.
 
-Look at the faction store for cards to unlock officers by purchasing chests with augment faction credits.
+To enter Augment space you must build the Botnay Bay (BB).
 
-When entering augment space, the `mines' are clustered in groups of 3 with a 3d object pointing to where they are. The actual mine location is invisible.
+The missions provide 36 bp, and then your Augment Faction Store is unlocked.
+Until you get enough bp to build one BB, you can claim 6 bp free per 22h.
+
+Alternately, there has been a purchase option for the BB for the impatient.
+
+Look for a free 1M tritanium card in the free chest area to help you build
+your BB, it requires 800k tritanium.
+
+Once built, you complete the `build the Botnay Bay` mission that then unlocks the path into Augment space.  Further missions will unlock further paths, but once your path is unlocked, any ship can set course that has a high enough warp level.
+
+Look at the Augment Faction Store for cards to unlock officers by purchasing chests with Augment faction credits.
+
+When entering Augment space, the `mines' are clustered in groups of 3 with a 3d object pointing to where they are. The actual mine location is invisible.
 
 The data you mine can be used to purchase credits from the faction store which
-in turn can be used to purchase things from the augment faction store.
+in turn can be used to purchase things from the Augment faction store.
 
 lvl18 shipyard required to build the Botany Bay surveyor ship.
 
-lvl20 required to see plutonium in the augment faction store.
+lvl20 required to see plutonium in the Augment faction store.
 
 lvl24 + pawn reputation required to see uncommon plutonium in the faction store.
 
 lvl30 required to see rare plutonium in the faction store.
 
-4 officers with maneuvers specific to augment faction (Khan's Crew)
+4 officers with maneuvers specific to Augment faction (Khan's Crew)
 
 Otto
   Captain Maneauver - Smash the Defenses  +20% damage against defense platforms
@@ -47,6 +62,10 @@ Joachim
 Marla McGivers
   Captain Maneauver - History Repeats Itself +20% repair speed of ship
   Officer Ability   - Let Me Help You     +50% attack, defense, health of cap
+
+Khan
+  Captain Maneauver - Ruthless Mastermind +50% chance reducing mitigation of all opponent's ships and defense platforms for two rounds
+  Officer Ability   - Savage Tenacity     + 1% cumulative critical hit chance each time hit by a ship or defense platform
 
 Items available in the faction store:
 
