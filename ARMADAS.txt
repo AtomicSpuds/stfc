@@ -57,13 +57,15 @@ _Armada Tactical Core_
 **Legend**
 AC = Alliance Credit
 UAC = Uncommon Armada Credit
+RAC = Rare Aramda Credit
 
 **Alliance Store**
-ops23-27
-  250 AC = 100 Armada Directives (6d15h timer)
+Ops 
+23-27  250  AC = 100 Armada Directives (6d15h timer)
+27-??  675 UAC = ? Armada Tactical Cores (22h timer)
+28-??  440 RAC = 1 Chest 'Bonus Rare Armada Pack'
+28-??  880 RAC = 2 Chest 'Bonus Rare Armada Pack'
 
-ops27
-  675 UAC = ? Armada Tactical Cores (22h timer)
  1350 UAC = ? Uncommon Armada Pack (22h timer)
 ops28-29
  1100 UAC = ? Armada Tactical Cores (22h timer)
@@ -71,7 +73,32 @@ ops28-29
 ops?
  1800 UAC = ? Armada Tactical Cores (22h timer)
 
+ops
+
 **Daily Rewards**
 Ops Directives
 24   5
 27   5 10
+
+house 170 for 1 chest, 340 for 2 lvl24
+weeze 720 for 1 chest, lvl32
+
+_Bonus Rare Armada Pack_ has a chance of:
+     4500 oxp
+    13500 oxp
+    22500 oxp
+        4 1h speedup
+      2/5 3h speedup
+  8/15/35 3*UO
+  8/15/35 3*UG
+  8/15/35 3*UC
+      2/4 3*RO
+      2/4 3*RG
+      2/4 3*RC
+1/3/5/100 bp USS Saladin
+1/3/5/100 bp Bortas
+1/3/5/100 bp Centurion
+1/3/5/ 40 bp Horizon
+1/3/5/100 bp USS Antares
+1/3/5/100 bp K'Vort
+1/3/5/100 bp Valkis
