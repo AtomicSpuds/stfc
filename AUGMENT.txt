@@ -73,33 +73,43 @@ Free
    6 build parts for Botnay Bay *timer* (disappears after have 60bp)
 
 Augment Credits can buy...
-  12 - 1 chest  Augment Recruit I *timer*
-  24 - 2 chests Augment Recruit I *timer*
-  12 - 1 chest  Augemnt Recruit II *timer* (Kati / Otto)
-  30 - 2 chests Augemnt Recruit II *timer* (Kati / Otto)
-  60 - 3 chests Augemnt Recruit II *timer* (Kati / Otto)
- 110 - 1 chest  Augment Recruit III *timer* (Kati, Otto, Joaquin, lvl20)
- 270 - 2 chests Augment Recruit III *timer* (Kati, Otto, Joaquin, lvl20)
- 540 - 3 chests Augment Recruit III *timer* (Kati, Otto, Joaquin, lvl20)
-  50 - 1 chest  Augment 5 Joaquin Shards        (pawn?     rep required, lvl20)
-     - 1 chest  Augment 5 shards Marla McGivers (associate rep required, lvl20)
-     - 1 chest  Augment 5 shards Joachim        (friend    rep required, lvl20)
-     - 1 chest  Augment 5 shards Kahan          (ally      rep required, lvl20)
- 120 - 50 Common Plutonium *timer* (lvl20)
-  25 - 1 chest  200,000 PAR *timer* *limited* (lvl19?)
- 150 - 1 chest  200,000 TRI *timer* *limited* (lvl19?)
-  75 - 1 chest   20,000 DIL *timer* *limited* (lvl19?)
-     - 5 shards Khan (ally rep required)
+   12 - 1 chest  Augment Recruit I *timer*
+   24 - 2 chests Augment Recruit I *timer*
+   12 - 1 chest  Augemnt Recruit II *timer* (Kati / Otto)
+   30 - 2 chests Augemnt Recruit II *timer* (Kati / Otto)
+   60 - 3 chests Augemnt Recruit II *timer* (Kati / Otto)
+  110 - 1 chest  Augment Recruit III *timer* (Kati, Otto, Joaquin, lvl20)
+  270 - 2 chests Augment Recruit III *timer* (Kati, Otto, Joaquin, lvl20)
+  540 - 3 chests Augment Recruit III *timer* (Kati, Otto, Joaquin, lvl20)
+ 3400 - 1 chest  Augment Recruit VI  *timer* (Kati,, Otto, Joaquin, Marla, Joachim, Khan)
+ 8600 - 2 chest  Augment Recruit VI  *timer* (Kati,, Otto, Joaquin, Marla, Joachim, Khan)
+17100 - 3 chest  Augment Recruit VI  *timer* (Katix5, Ottox5, Joaquinx5, Marlax3, Joachimx3, Khanx2)
+   50 - 1 chest  Augment 5 Joaquin Shards        (pawn?     rep required, lvl20)
+      - 1 chest  Augment 5 shards Marla McGivers (associate rep required, lvl20)
+      - 1 chest  Augment 5 shards Joachim        (friend    rep required, lvl20)
+      - 1 chest  Augment 5 shards Kahan          (ally      rep required, lvl20)
+  120 - 50 Common Plutonium *timer* (lvl20)
+   25 - 1 chest  200,000 PAR *timer* *limited* (lvl19?)
+  150 - 1 chest  200,000 TRI *timer* *limited* (lvl19?)
+   75 - 1 chest   20,000 DIL *timer* *limited* (lvl19?)
+      - 5 shards Khan (ally rep required)
+ 1180 - 510 Common plutonium
+ 2300 - 875 Uncommon Plutonium
+ 4000 -  10 Rare Plutonium
+ 5700 -  40 Rare Plutonium
+
  
 Corrupted Data can buy..
- 150 -  50 Augment Credits (lvl19)
-1500 - 360 Augment Credits (lvl20)
- 100 - 125 Augment Reputation (lvl19)
- 200 - 200 Augment Reputation (lvl19)
- 950 - 400 Augment Reputation (lvl20)
+  150 -   50 Augment Credits (lvl19)
+ 1500 -  360 Augment Credits (lvl20)
+ 9500 -  480 Augment Credits (lvl30)
+  100 -  125 Augment Reputation (lvl19)
+  200 -  200 Augment Reputation (lvl19)
+  950 -  400 Augment Reputation (lvl20)
 
 Decoded Data can buy..
- 500 - 250 Agument Credits (lvl20)
+  500 -  250 Agument Credits (lvl20)
+71000 - 7130 Augment Credits (lvl30)
 
 *timer* - once you purchase, a timer is set to unlock again after a delay
 *limited* - not always available
