@@ -88,10 +88,31 @@ Ships - G2
     
 
 Ships - G3
-                                                                    Upgrade Type
-  PAR    TRI   DIL  3CG 3UG 3RG 3CC 3UC 3RC 3CO 3UO 3RO 3EP 3IP 3SP Time   \|/ Description
-    0 455000     0  240   0   0   0   0   0  36   0   0  32   0   0         V  MK3 Shield
-    0 225000 24000    0  14   0   0   0   0   3   0   0  48   0   0         V  MK3 Phaser Beam [ENERGY]
+                                                                        Upgrade Type
+  PAR        TRI     DIL  3CG  3UG 3RG 3CC 3UC 3RC 3CO 3UO 3RO  3EP 3IP 3SP 3BP  \|/ Description
+    0 11,700,000       0    0    0   0   0 120   0   0 800   0    0   0   0 575 Bortas MK6 Tritanium Armor
+    0 11,700,000 138,000    0    0   0   0 180   0   0 800   0    0   0   0 725 Bortas MK6 Right Kinetic Cannon
+    0  7,800,000       0 3900    0   0   0   0   0   0   0   0  300   0   0   0 Mayflower MK7 Cargo Bay
+    0 15,600,000       0    0 1225   0   0   0   0   0 180   0 1175   0   0   0 Mayflower MK7 Shield
+    0 10,800,000 104,000    0  100   0   0 425   0   0   0   0    0 425   0   0 Saladin MK5 Phaser Turrets
+    0 10,800,000 104,000    0  100   0   0 425   0   0   0   0    0 425   0   0 Saladin MK5 Phaser Turrets
+    0  6,500,000       0    0   50   0   0 325   0   0   0   0    0 300   0   0 Saladin MK5 Impulse Engines
+    0  4,700,000       0    0   80   0   0 525   0   0   0   0    0 525   0   0 D3 MK6 Impulse Engines
+
+   Bortas T5
+Mayflower T6
+  Saladin T4
+
+
+ 771 3cg
+ 174 3ug
+  42 3uc
+ 555 3uo
+6917 3bp
+8064 3ip
+ 165 3ep
+ 110 3sp
+
     
 
 
