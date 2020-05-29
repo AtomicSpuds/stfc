@@ -21,18 +21,18 @@ Nevertheless, I have figured out a few things:
     Lieut. JG II        = 2    10          50000
     Lieut. III          = 3    15   50000 100000
     Lieut. Commander IV = 4    20  100000 250000+1100ic+1eb
-    ? V                 = 5    30
+    Commander V         = 5    30
 
   ic = independent credits
   eb = engineering badge
 
        Level Up Cost (Officer XP)
-    Level Common   Uncommon  Rare
-      1                       400
-      2                       700
-      3                      1100
-      4                      1600
-      5             4400     8800
+    Level Common   Uncommon  Rare Epic
+      1                       400  800
+      2                       700 1400
+      3                      1100 2200
+      4                      1600 3200
+      5             4400     8800 
       6             6100    12200
       7             7600    15200
       8             8600    17200
@@ -47,10 +47,10 @@ Nevertheless, I have figured out a few things:
      17  29.7K
      18  31.8K
      19  33.2K
-     20
-     21
-     22
-     23
+     20  69.6K
+     21  84.8K
+     22  96.8K
+     23 105.6K
      24
      25
      26
@@ -139,14 +139,17 @@ Off Komal          Resist Kinetic         - 7% kinetic damage if player attackin
 Cap Koth           Interceptor Overseer   +20% decrease in repair time
 Off Koth           Open Them Up           + 5% incrases kinetic weapons if opponent has hull breach
 
+Cap Krell          Retribution            +30% hull breach to opponent 1 round, each time get shield damage 
+Off Krell          Federation Contacts    +25% damage against federation ships by crew defense
+
 Cap L'Nar          Romulan Health         +20% health of officers
-Off L'Nar          Klingon Pursue         +25% damage against klingon ships of crew's attack
+Off L'Nar          Klingon Pursue         +25% damage against klingon ships by crew attack
 
 Cap Leslie         Minor Damage Control   + 5% restore hull if hull health is < 35%
 Off Leslie         Battleship Trainer     +20% ship xp on battleships
 
 Cap Linkasa        Way of the Klingon     +10% defense of all officers after winning a battle
-Off Linkasa        Defensive Tactics      +25% armor of ship by total attack of crew
+Off Linkasa        Defensive Tactics      +25% armor of ship by crew attack
 
 Cap M'Benga        Break Through          +10% armor+shield+accuracy if defending station
 Off M'Benga        Slip Through           +10% dodge+armor+shield deflection if defending station
@@ -184,8 +187,14 @@ Off Vel            Chirurgical Precision  + 7% kinetic weapon damage
 Cap Vella          Overmatch              +10% weapon damage if opponent is explorer
 Off Vella          Sturdy Companion       + 5% officer health
 
+Cap Vemet          Romulan Tenacity       + 5% hull repaired after battle lost 'resurection'
+Off Vemet          Feel the Heat          +40% health of officers on ship..  if opponent burning, decreases opponent shield health
+
 Cap Vixis          Fake Communiques       + 6% chance delaying opponent weapon fire by 1 round
 Off Vixis          Energy Absorption      -10% decrease energy weapons of opponnents
+
+Cap Yuki           Disrupting Field       -10% opponent shield health each round
+Off Yuki           Romulan Grudge         +25% damage against romulan ships by crew health
 
 Cap Zahra          Station Expert         +10% hull health if defending station
 Off Zahra          Home Engineer          + 5% weapon damage if defending station
@@ -217,7 +226,7 @@ Lieut. JG II Gaila                    10/ 10  273  22  19  50  4/30 Starfleet Ac
 Ensign I     Gonzales, Lucia           5/  5  260  48  34  48 11/24 Starfleet Academy
              Gorkon                    5/100  576 192  48  48  0/ 0 Klingon Patriots
              Hadley, Geoffrey          0/  7   48  10   6   8  0/ 0 Shakedown Cruise
-Lieut. JG II Helvia                   10/ 10  273   7  46  38 12/20 Surveyors & Miners
+Lieut. JG II Helvia                   10/ 10 1800  25 150 125 12/20 Surveyors & Miners
              Hendorff                  0/ 16  118  37  17   5  0/ 0 Shakedown Cruise
              Ivanov, Arkady           10/ 12  120  10  30  20  0/ 0 Enterprise Crew
              Javaid                   11/ 12  118  30  12  17  0/ 0 Nero's Crew
@@ -228,7 +237,7 @@ Lieut. JG II K'Bisch                  10/ 10  273   7  34  50 19/25 Surveyors & 
              Kati                     17/ 20  158  37   5  37  0/ 0 Khan's Crew
              Keenser                   2/ 34  240  10  80  30  0/ 0 Lower Decks
              Kerla                     4/ 32  240  40  25  55  0/ 0 Klingon Patriots
-Lieut. JG II Kirk, Cadet James T.     10/ 10  231  32  32  13 16/20 Another Time
+Lt. Comm. IV Kirk, Cadet James T.     10/ 10  885  74  74  29 16/20 Another Time
              Kirk, James T.            8/100  576  48 192  48  0/ 0 Enterprise Crew
 Ensign I     Klaa                      5/  5  200  17  21  62 10/28 Glory in the Kill
 Lieut. JG II Komal                     9/  5  246  41  27  14  3/10 Glory in the Kill
@@ -256,7 +265,7 @@ Lieut. III   McCoy, Cadet Leonard     12/ 15  452  28  28  57 12/36 Another Time
              Otto                     15/ 16  158  65   7   7  0/ 0 Khan's Crew
              Pike, Christopher         0/100  576  72 108 108  0/ 0 Shakedown Cruise
              Qa'ug                     0/ 12  120  20  20  20  0/ 0 Blood & Honor
-Lieut. JG II Rukor                     6/ 10  168  35  19   2  7/35 Glory in the Kill
+Lt. Comm. IV Rukor                     6/ 10  885 111  59   7  7/35 Glory in the Kill
 Lieut. JG II Scott, Cadet Montgomery  10/ 10  231  13  32  32 12/15 Another Time
 Ensign I     Scott, Montgomery         1/ 32  150  19  40  16  3/ 5 Enterprise Crew
              Severus                   0/ 14  118  17  17  25  0/ 0 Romulan Patriots
@@ -270,7 +279,7 @@ Lieut. JG II T'Laan                   10/ 10  231  19  42  16 11/20 Starfleet Ac
              Tal                       0/ 34  240  20  55  45  0/ 0 Romulan Patriots
 Lieut. III   Uhura, Cadet Nyota       15/ 15  588  61  25  61 11/36 Another Time
              Uhura, Nyota             10/ 36  240  60  35  25  0/ 0 Enterprise Crew
-Lieut. JG II Vartoq                   10/ 10  273  50  19  22  5/30 Glory in the Kill
+Lt. Comm. IV Vartoq                   20/ 20 1130 123  47  56 20/30 Glory in the Kill
 Ensign I     Vella                     1/  5  140  26  32  12  2/24 Nero's Crew
              Vement                    5/ 36  240  25  45  50  0/ 0 Nero's Crew
              Vemet                     3/ 36  240  25  45  50  0/ 0 Nero's Crew
@@ -390,12 +399,14 @@ Battleship + hostile (elminiation goals, strength not care so much about rss)
  Cap Hendorff       Excellent Security     +20% dodge, armor, shield deflection if combat starts with hull health < 60%
  Cap Instr Spock    Knowledgeable          + 5% weapon damage to opponent
  Cap Javaid         Overwhelming Fire      +20% shield piercing
+ Cap Krell          Retribution            +30% hull breach to opponent 1 round, each time get shield damage 
  Cap Leslie         Minor Damage Control   + 5% restore hull if hull health is < 35%
  Cap Shev           Tritanium Hunter       +25% Tritanium if attcking hostile
  Cap T'Laan         Thorough Scans         +15% Ship XP if fighting hostiles
  Cap Vel            Dilithium Hunter       +45% Dilithium if attacking hostile
  Cap Vella          Overmatch              +10% weapon damage if opponent is explorer
  Cap Vixis          Fake Communiques       + 6% chance delaying opponent weapon fire by 1 round
+ Cap Yuki           Disrupting Field       -10% opponent shield health each round
  Off Arix           Powered Armor          +15% armor if combat starts with hull health < 70%
  Off Arkady         Shields Refactor       +10% shield health
  Off Cadet Kirk     Tactician              + 8% weapon damage
@@ -408,12 +419,13 @@ Battleship + hostile (elminiation goals, strength not care so much about rss)
  Off Javaid         Reinforcements         +15% armor if battleship
  Off Koth           Open Them Up           + 5% incrases kinetic weapons if opponent has hull breach
  Off Leslie         Battleship Trainer     +20% ship xp on battleships
- Off Linkasa        Defensive Tactics      +25% armor of ship by total attack of crew
+ Off Linkasa        Defensive Tactics      +25% armor of ship by crew attack
  Off Scotty         Born Engineer          +10% hull health
  Off Shev           Justice Dealer         + 7% energy weapons if attacking hostile
  Off Sulu           Ranking Fire           +15% energy weapons if ship has morale
  Off T'Laan         Objective Defense      - 7% damage by kinetic weapons if hostile
  Off Vel            Chirurgical Precision  + 7% kinetic weapon damage
+ Off Vemet          Feel the Heat          +40% health of officers on ship..  if opponent burning, decreases opponent shield health
  Off Vixis          Energy Absorption      -10% decrease energy weapons of opponnents
 
 Battleship + player
@@ -426,11 +438,13 @@ Battleship + player
  Cap Instr Spock    Knowledgeable          + 5% weapon damage to opponent
  Cap Javaid         Overwhelming Fire      +20% shield piercing
  Cap Komal          Battleship Specialist  +30% weapon damage if attacking player
+ Cap Krell          Retribution            +30% hull breach to opponent 1 round, each time get shield damage 
  Cap Leslie         Minor Damage Control   + 5% restore hull if hull health is < 35%
  Cap Rukor          Explorer Specialist    +20% weapon damage if attacking player
  Cap Vartoq         Interceptor Specialist +20% weapon damage if attacking player
  Cap Vella          Overmatch              +10% weapon damage if opponent is explorer
  Cap Vixis          Fake Communiques       + 6% chance delaying opponent weapon fire by 1 round
+ Cap Yuki           Disrupting Field       -10% opponent shield health each round
  Off Arix           Powered Armor          +15% armor if combat starts with hull health < 70%
  Off Arkady         Shields Refactor       +10% shield health
  Off Cadet Kirk     Tactician              + 8% weapon damage
@@ -441,12 +455,13 @@ Battleship + player
  Off Komal          Resist Kinetic         - 7% kinetic damage if player attacking
  Off Koth           Open Them Up           + 5% incrases kinetic weapons if opponent has hull breach
  Off Leslie         Battleship Trainer     +20% ship xp on battleships
- Off Linkasa        Defensive Tactics      +25% armor of ship by total attack of crew
+ Off Linkasa        Defensive Tactics      +25% armor of ship by crew attack
  Off Rukor          Energy Boost           + 7% energy weapons if attacking player
  Off Scotty         Born Engineer          +10% hull health
  Off Sulu           Ranking Fire           +15% energy weapons if ship has morale
  Off Vartoq         Kinetic Boost          + 7% kinetic weapon damage if attacking player
  Off Vel            Chirurgical Precision  + 7% kinetic weapon damage
+ Off Vemet          Feel the Heat          +40% health of officers on ship..  if opponent burning, decreases opponent shield health
  Off Vixis          Energy Absorption      -10% decrease energy weapons of opponnents
 
 Battleship + station
@@ -458,10 +473,12 @@ Battleship + station
  Cap Hendorff       Excellent Security     +20% dodge, armor, shield deflection if combat starts with hull health < 60%
  Cap Instr Spock    Knowledgeable          + 5% weapon damage to opponent
  Cap Javaid         Overwhelming Fire      +20% shield piercing
+ Cap Krell          Retribution            +30% hull breach to opponent 1 round, each time get shield damage 
  Cap Leslie         Minor Damage Control   + 5% restore hull if hull health is < 35%
  Cap M'Benga        Break Through          +10% armor+shield+accuracy if defending station
  Cap Vella          Overmatch              +10% weapon damage if opponent is explorer
  Cap Vixis          Fake Communiques       + 6% chance delaying opponent weapon fire by 1 round
+ Cap Yuki           Disrupting Field       -10% opponent shield health each round
  Cap Zahra          Station Expert         +10% hull health if defending station
  Off Arix           Powered Armor          +15% armor if combat starts with hull health < 70%
  Off Arkady         Shields Refactor       +10% shield health
@@ -473,11 +490,12 @@ Battleship + station
  Off Kati           Enhanced Weaponry      +15% critical hit damage if attacking a station
  Off Koth           Open Them Up           + 5% incrases kinetic weapons if opponent has hull breach
  Off Leslie         Battleship Trainer     +20% ship xp on battleships
- Off Linkasa        Defensive Tactics      +25% armor of ship by total attack of crew
+ Off Linkasa        Defensive Tactics      +25% armor of ship by crew attack
  Off M'Benga        Slip Through           +10% dodge+armor+shield deflection if defending station
  Off Scotty         Born Engineer          +10% hull health
  Off Sulu           Ranking Fire           +15% energy weapons if ship has morale
  Off Vel            Chirurgical Precision  + 7% kinetic weapon damage
+ Off Vemet          Feel the Heat          +40% health of officers on ship..  if opponent burning, decreases opponent shield health
  Off Vixis          Energy Absorption      -10% decrease energy weapons of opponnents
  Off Zahra          Home Engineer          + 5% weapon damage if defending station
 
@@ -492,12 +510,14 @@ Explorer + hostile (elminiation goals, strength not care so much about rss)
  Cap Hendorff       Excellent Security     +20% dodge, armor, shield deflection if combat starts with hull health < 60%
  Cap Instr Spock    Knowledgeable          + 5% weapon damage to opponent
  Cap Javaid         Overwhelming Fire      +20% shield piercing
+ Cap Krell          Retribution            +30% hull breach to opponent 1 round, each time get shield damage 
  Cap Leslie         Minor Damage Control   + 5% restore hull if hull health is < 35%
  Cap Shev           Tritanium Hunter       +25% Tritanium if attcking hostile
  Cap T'Laan         Thorough Scans         +15% Ship XP if fighting hostiles
  Cap Vel            Dilithium Hunter       +45% Dilithium if attacking hostile
  Cap Vella          Overmatch              +10% weapon damage if opponent is explorer
  Cap Vixis          Fake Communiques       + 6% chance delaying opponent weapon fire by 1 round
+ Cap Yuki           Disrupting Field       -10% opponent shield health each round
  Off Arix           Powered Armor          +15% armor if combat starts with hull health < 70%
  Off Arkady         Shields Refactor       +10% shield health
  Off Cadet Kirk     Tactician              + 8% weapon damage
@@ -510,12 +530,13 @@ Explorer + hostile (elminiation goals, strength not care so much about rss)
  Off Instr Spock    Kobayashi Manu         +12% shield deflection, armor, dodge
  Off Javaid         Reinforcements         +15% armor if battleship
  Off Koth           Open Them Up           + 5% incrases kinetic weapons if opponent has hull breach
- Off Linkasa        Defensive Tactics      +25% armor of ship by total attack of crew
+ Off Linkasa        Defensive Tactics      +25% armor of ship by crew attack
  Off Scotty         Born Engineer          +10% hull health
  Off Shev           Justice Dealer         + 7% energy weapons if attacking hostile
  Off Sulu           Ranking Fire           +15% energy weapons if ship has morale
  Off T'Laan         Objective Defense      - 7% damage by kinetic weapons if hostile
  Off Vel            Chirurgical Precision  + 7% kinetic weapon damage
+ Off Vemet          Feel the Heat          +40% health of officers on ship..  if opponent burning, decreases opponent shield health
  Off Vixis          Energy Absorption      -10% decrease energy weapons of opponnents
 
 Explorer + player
@@ -528,11 +549,13 @@ Explorer + player
  Cap Instr Spock    Knowledgeable          + 5% weapon damage to opponent
  Cap Javaid         Overwhelming Fire      +20% shield piercing
  Cap Komal          Battleship Specialist  +30% weapon damage if attacking player
+ Cap Krell          Retribution            +30% hull breach to opponent 1 round, each time get shield damage 
  Cap Leslie         Minor Damage Control   + 5% restore hull if hull health is < 35%
  Cap Rukor          Explorer Specialist    +20% weapon damage if attacking player
  Cap Vartoq         Interceptor Specialist +20% weapon damage if attacking player
  Cap Vella          Overmatch              +10% weapon damage if opponent is explorer
  Cap Vixis          Fake Communiques       + 6% chance delaying opponent weapon fire by 1 round
+ Cap Yuki           Disrupting Field       -10% opponent shield health each round
  Off Arix           Powered Armor          +15% armor if combat starts with hull health < 70%
  Off Arkady         Shields Refactor       +10% shield health
  Off Cadet Kirk     Tactician              + 8% weapon damage
@@ -543,12 +566,13 @@ Explorer + player
  Off Javaid         Reinforcements         +15% armor if battleship
  Off Komal          Resist Kinetic         - 7% kinetic damage if player attacking
  Off Koth           Open Them Up           + 5% incrases kinetic weapons if opponent has hull breach
- Off Linkasa        Defensive Tactics      +25% armor of ship by total attack of crew
+ Off Linkasa        Defensive Tactics      +25% armor of ship by crew attack
  Off Rukor          Energy Boost           + 7% energy weapons if attacking player
  Off Scotty         Born Engineer          +10% hull health
  Off Sulu           Ranking Fire           +15% energy weapons if ship has morale
  Off Vartoq         Kinetic Boost          + 7% kinetic weapon damage if attacking player
  Off Vel            Chirurgical Precision  + 7% kinetic weapon damage
+ Off Vemet          Feel the Heat          +40% health of officers on ship..  if opponent burning, decreases opponent shield health
  Off Vixis          Energy Absorption      -10% decrease energy weapons of opponnents
 
 Explorer + station
@@ -560,10 +584,12 @@ Explorer + station
  Cap Hendorff       Excellent Security     +20% dodge, armor, shield deflection if combat starts with hull health < 60%
  Cap Instr Spock    Knowledgeable          + 5% weapon damage to opponent
  Cap Javaid         Overwhelming Fire      +20% shield piercing
+ Cap Krell          Retribution            +30% hull breach to opponent 1 round, each time get shield damage 
  Cap Leslie         Minor Damage Control   + 5% restore hull if hull health is < 35%
  Cap M'Benga        Break Through          +10% armor+shield+accuracy if defending station
  Cap Vella          Overmatch              +10% weapon damage if opponent is explorer
  Cap Vixis          Fake Communiques       + 6% chance delaying opponent weapon fire by 1 round
+ Cap Yuki           Disrupting Field       -10% opponent shield health each round
  Cap Zahra          Station Expert         +10% hull health if defending station
  Off Arix           Powered Armor          +15% armor if combat starts with hull health < 70%
  Off Arkady         Shields Refactor       +10% shield health
@@ -575,11 +601,12 @@ Explorer + station
  Off Kati           Enhanced Weaponry      +15% critical hit damage if attacking a station
  Off Koth           Open Them Up           + 5% incrases kinetic weapons if opponent has hull breach
  Off Leslie         Battleship Trainer     +20% ship xp on battleships
- Off Linkasa        Defensive Tactics      +25% armor of ship by total attack of crew
+ Off Linkasa        Defensive Tactics      +25% armor of ship by crew attack
  Off M'Benga        Slip Through           +10% dodge+armor+shield deflection if defending station
  Off Scotty         Born Engineer          +10% hull health
  Off Sulu           Ranking Fire           +15% energy weapons if ship has morale
  Off Vel            Chirurgical Precision  + 7% kinetic weapon damage
+ Off Vemet          Feel the Heat          +40% health of officers on ship..  if opponent burning, decreases opponent shield health
  Off Vixis          Energy Absorption      -10% decrease energy weapons of opponnents
  Off Zahra          Home Engineer          + 5% weapon damage if defending station
 
@@ -595,12 +622,14 @@ Interceptor + hostile (elminiation goals, strength not care so much about rss)
  Cap Instr Spock    Knowledgeable          + 5% weapon damage to opponent
  Cap Javaid         Overwhelming Fire      +20% shield piercing
  Cap Koth           Interceptor Overseer   +20% decrease in repair time
+ Cap Krell          Retribution            +30% hull breach to opponent 1 round, each time get shield damage 
  Cap Leslie         Minor Damage Control   + 5% restore hull if hull health is < 35%
  Cap Shev           Tritanium Hunter       +25% Tritanium if attcking hostile
  Cap T'Laan         Thorough Scans         +15% Ship XP if fighting hostiles
  Cap Vel            Dilithium Hunter       +45% Dilithium if attacking hostile
  Cap Vella          Overmatch              +10% weapon damage if opponent is explorer
  Cap Vixis          Fake Communiques       + 6% chance delaying opponent weapon fire by 1 round
+ Cap Yuki           Disrupting Field       -10% opponent shield health each round
  Off Arix           Powered Armor          +15% armor if combat starts with hull health < 70%
  Off Arkady         Shields Refactor       +10% shield health
  Off Cadet Kirk     Tactician              + 8% weapon damage
@@ -613,12 +642,13 @@ Interceptor + hostile (elminiation goals, strength not care so much about rss)
  Off Instr Spock    Kobayashi Manu         +12% shield deflection, armor, dodge
  Off Javaid         Reinforcements         +15% armor if battleship
  Off Koth           Open Them Up           + 5% incrases kinetic weapons if opponent has hull breach
- Off Linkasa        Defensive Tactics      +25% armor of ship by total attack of crew
+ Off Linkasa        Defensive Tactics      +25% armor of ship by crew attack
  Off Scotty         Born Engineer          +10% hull health
  Off Shev           Justice Dealer         + 7% energy weapons if attacking hostile
  Off Sulu           Ranking Fire           +15% energy weapons if ship has morale
  Off T'Laan         Objective Defense      - 7% damage by kinetic weapons if hostile
  Off Vel            Chirurgical Precision  + 7% kinetic weapon damage
+ Off Vemet          Feel the Heat          +40% health of officers on ship..  if opponent burning, decreases opponent shield health
  Off Vixis          Energy Absorption      -10% decrease energy weapons of opponnents
 
 Interceptor + player
@@ -632,11 +662,13 @@ Interceptor + player
  Cap Javaid         Overwhelming Fire      +20% shield piercing
  Cap Komal          Battleship Specialist  +30% weapon damage if attacking player
  Cap Koth           Interceptor Overseer   +20% decrease in repair time
+ Cap Krell          Retribution            +30% hull breach to opponent 1 round, each time get shield damage 
  Cap Leslie         Minor Damage Control   + 5% restore hull if hull health is < 35%
  Cap Rukor          Explorer Specialist    +20% weapon damage if attacking player
  Cap Vartoq         Interceptor Specialist +20% weapon damage if attacking player
  Cap Vella          Overmatch              +10% weapon damage if opponent is explorer
  Cap Vixis          Fake Communiques       + 6% chance delaying opponent weapon fire by 1 round
+ Cap Yuki           Disrupting Field       -10% opponent shield health each round
  Off Arix           Powered Armor          +15% armor if combat starts with hull health < 70%
  Off Arkady         Shields Refactor       +10% shield health
  Off Cadet Kirk     Tactician              + 8% weapon damage
@@ -647,12 +679,13 @@ Interceptor + player
  Off Javaid         Reinforcements         +15% armor if battleship
  Off Komal          Resist Kinetic         - 7% kinetic damage if player attacking
  Off Koth           Open Them Up           + 5% incrases kinetic weapons if opponent has hull breach
- Off Linkasa        Defensive Tactics      +25% armor of ship by total attack of crew
+ Off Linkasa        Defensive Tactics      +25% armor of ship by crew attack
  Off Rukor          Energy Boost           + 7% energy weapons if attacking player
  Off Scotty         Born Engineer          +10% hull health
  Off Sulu           Ranking Fire           +15% energy weapons if ship has morale
  Off Vartoq         Kinetic Boost          + 7% kinetic weapon damage if attacking player
  Off Vel            Chirurgical Precision  + 7% kinetic weapon damage
+ Off Vemet          Feel the Heat          +40% health of officers on ship..  if opponent burning, decreases opponent shield health
  Off Vixis          Energy Absorption      -10% decrease energy weapons of opponnents
 
 Interceptor + station
@@ -665,10 +698,12 @@ Interceptor + station
  Cap Instr Spock    Knowledgeable          + 5% weapon damage to opponent
  Cap Javaid         Overwhelming Fire      +20% shield piercing
  Cap Koth           Interceptor Overseer   +20% decrease in repair time
+ Cap Krell          Retribution            +30% hull breach to opponent 1 round, each time get shield damage 
  Cap Leslie         Minor Damage Control   + 5% restore hull if hull health is < 35%
  Cap M'Benga        Break Through          +10% armor+shield+accuracy if defending station
  Cap Vella          Overmatch              +10% weapon damage if opponent is explorer
  Cap Vixis          Fake Communiques       + 6% chance delaying opponent weapon fire by 1 round
+ Cap Yuki           Disrupting Field       -10% opponent shield health each round
  Cap Zahra          Station Expert         +10% hull health if defending station
  Off Arix           Powered Armor          +15% armor if combat starts with hull health < 70%
  Off Arkady         Shields Refactor       +10% shield health
@@ -680,11 +715,12 @@ Interceptor + station
  Off Javaid         Reinforcements         +15% armor if battleship
  Off Kati           Enhanced Weaponry      +15% critical hit damage if attacking a station
  Off Koth           Open Them Up           + 5% incrases kinetic weapons if opponent has hull breach
- Off Linkasa        Defensive Tactics      +25% armor of ship by total attack of crew
+ Off Linkasa        Defensive Tactics      +25% armor of ship by crew attack
  Off M'Benga        Slip Through           +10% dodge+armor+shield deflection if defending station
  Off Scotty         Born Engineer          +10% hull health
  Off Sulu           Ranking Fire           +15% energy weapons if ship has morale
  Off Vel            Chirurgical Precision  + 7% kinetic weapon damage
+ Off Vemet          Feel the Heat          +40% health of officers on ship..  if opponent burning, decreases opponent shield health
  Off Vixis          Energy Absorption      -10% decrease energy weapons of opponnents
  Off Zahra          Home Engineer          + 5% weapon damage if defending station
 
@@ -723,6 +759,10 @@ Stats again, sorted by Strength
                                        |       |   |   |   |    |
 Rank         Name                     \|/     \|/ \|/ \|/ \|/  \|/  Group
 ------------ ----------------------- ------- ---- --- --- --- ----- ----------------
+Lieut. JG II Helvia                   10/ 10 1800  25 150 125 12/20 Surveyors & Miners
+Lt. Comm. IV Vartoq                   20/ 20 1130 123  47  56 20/30 Glory in the Kill
+Lt. Comm. IV Kirk, Cadet James T.     10/ 10  885  74  74  29 16/20 Another Time
+Lt. Comm. IV Rukor                     6/ 10  885 111  59   7  7/35 Glory in the Kill
 Lieut. III   Uhura, Cadet Nyota       15/ 15  588  61  25  61 11/36 Another Time
              Gorkon                    5/100  576 192  48  48  0/ 0 Klingon Patriots
              Kras                      6/ 95  576 216  36  36  0/ 0 Glory in the Kill
@@ -740,9 +780,7 @@ Lieut. III   Spock, Instuctor         11/ 15  412  26  51  26  9/36 Another Time
 Lieut. JG II D'jaoki                   4/ 10  303  55   8  38 12/48 Romulan Patriots
 Lieut. JG II K'Bentayr, Vel           10/ 10  279  31  31  31 12/25 Starfleet Academy
 Lieut. JG II Gaila                    10/ 10  273  22  19  50  4/30 Starfleet Academy
-Lieut. JG II Helvia                   10/ 10  273   7  46  38 12/20 Surveyors & Miners
 Lieut. JG II K'Bisch                  10/ 10  273   7  34  50 19/25 Surveyors & Miners
-Lieut. JG II Vartoq                   10/ 10  273  50  19  22  5/30 Glory in the Kill
 Lieut. JG II Domitia                  10/ 10  261   7  42  38  5/30 Surveyors & Miners
 Ensign I     Gonzales, Lucia           5/  5  260  48  34  48 11/24 Starfleet Academy
 Lieut. JG II Komal                     9/  5  246  41  27  14  3/10 Glory in the Kill
@@ -769,12 +807,10 @@ Lieut. JG II Komal                     9/  5  246  41  27  14  3/10 Glory in the
              Tal                       0/ 34  240  20  55  45  0/ 0 Romulan Patriots
 Lieut. JG II T'Laan                   10/ 10  231  19  42  16 11/20 Starfleet Academy
 Lieut. JG II Scott, Cadet Montgomery  10/ 10  231  13  32  32 12/15 Another Time
-Lieut. JG II Kirk, Cadet James T.     10/ 10  231  32  32  13 16/20 Another Time
 Ensign I     Chen, Grace               5/  5  222  41  41  29  6/20 Starfleet Academy
 Ensign I     Klaa                      5/  5  200  17  21  62 10/28 Glory in the Kill
 Ensign I     Koth                      5/  5  200  29  25  46  0/28 Klingon Patriots
 Ensign I     Vixis                     3/  5  176  14  44  30  0/28 Glory in the Kill
-Lieut. JG II Rukor                     6/ 10  168  35  19   2  7/35 Glory in the Kill
              Joaquin                   0/ 14  158  25  12  42  0/ 0 Khan's Crew
              Kati                     17/ 20  158  37   5  37  0/ 0 Khan's Crew
              Otto                     15/ 16  158  65   7   7  0/ 0 Khan's Crew
@@ -812,22 +848,23 @@ Stats again, sorted by Attack
                                        |       |   |   |   |    |
 Rank         Name                     \|/     \|/ \|/ \|/ \|/  \|/  Group
 ------------ ----------------------- ------- ---- --- --- --- ----- ----------------
+Lt. Comm. IV Vartoq                   20/ 20 1130 123  47  56 20/30 Glory in the Kill
+Lt. Comm. IV Rukor                     6/ 10  885 111  59   7  7/35 Glory in the Kill
+Lt. Comm. IV Kirk, Cadet James T.     10/ 10  885  74  74  29 16/20 Another Time
 Lieut. III   Sulu, Cadet Hikaru       15/ 15  496  62  31  31 11/36 Another Time
 Lieut. III   Uhura, Cadet Nyota       15/ 15  588  61  25  61 11/36 Another Time
 Lieut. JG II D'jaoki                   4/ 10  303  55   8  38 12/48 Romulan Patriots
-Lieut. JG II Vartoq                   10/ 10  273  50  19  22  5/30 Glory in the Kill
 Ensign I     Gonzales, Lucia           5/  5  260  48  34  48 11/24 Starfleet Academy
              McGivers, Marla           5/  5  530  45 110 110 11/57 Khan's Crew
 Ensign I     Chen, Grace               5/  5  222  41  41  29  6/20 Starfleet Academy
 Lieut. JG II Komal                     9/  5  246  41  27  14  3/10 Glory in the Kill
-Lieut. JG II Rukor                     6/ 10  168  35  19   2  7/35 Glory in the Kill
-Lieut. JG II Kirk, Cadet James T.     10/ 10  231  32  32  13 16/20 Another Time
 Lieut. JG II K'Bentayr, Vel           10/ 10  279  31  31  31 12/25 Starfleet Academy
 Ensign I     Koth                      5/  5  200  29  25  46  0/28 Klingon Patriots
 Lieut. III   McCoy, Cadet Leonard     12/ 15  452  28  28  57 12/36 Another Time
 Lieut. III   Spock, Instuctor         11/ 15  412  26  51  26  9/36 Another Time
 Ensign I     Vella                     1/  5  140  26  32  12  2/24 Nero's Crew
 Lieut. JG II Akria, Shev               6/ 10  144  26  12  10  6/25 Starfleet Academy
+Lieut. JG II Helvia                   10/ 10 1800  25 150 125 12/20 Surveyors & Miners
 Lieut. JG II Gaila                    10/ 10  273  22  19  50  4/30 Starfleet Academy
 Lieut. JG II T'Laan                   10/ 10  231  19  42  16 11/20 Starfleet Academy
 Ensign I     Scott, Montgomery         1/ 32  150  19  40  16  3/ 5 Enterprise Crew
@@ -836,7 +873,6 @@ Ensign I     Vixis                     3/  5  176  14  44  30  0/28 Glory in the
 Ensign I     M'Benga, Jabilo           5/  5   96  14  22  12  0/10 Lower Decks
 Lieut. JG II Scott, Cadet Montgomery  10/ 10  231  13  32  32 12/15 Another Time
 Ensign I     Zahra                     5/  5  100  11   6  33  1/ 8 Lower Decks
-Lieut. JG II Helvia                   10/ 10  273   7  46  38 12/20 Surveyors & Miners
 Lieut. JG II Domitia                  10/ 10  261   7  42  38  5/30 Surveyors & Miners
 Lieut. JG II K'Bisch                  10/ 10  273   7  34  50 19/25 Surveyors & Miners
              Kras                      6/ 95  576 216  36  36  0/ 0 Glory in the Kill
@@ -901,9 +937,12 @@ Stats again, sorted by Defense
                                        |       |   |   |   |    |
 Rank         Name                     \|/     \|/ \|/ \|/ \|/  \|/  Group
 ------------ ----------------------- ------- ---- --- --- --- ----- ----------------
+Lieut. JG II Helvia                   10/ 10 1800  25 150 125 12/20 Surveyors & Miners
              McGivers, Marla           5/  5  530  45 110 110 11/57 Khan's Crew
+Lt. Comm. IV Kirk, Cadet James T.     10/ 10  885  74  74  29 16/20 Another Time
+Lt. Comm. IV Rukor                     6/ 10  885 111  59   7  7/35 Glory in the Kill
 Lieut. III   Spock, Instuctor         11/ 15  412  26  51  26  9/36 Another Time
-Lieut. JG II Helvia                   10/ 10  273   7  46  38 12/20 Surveyors & Miners
+Lt. Comm. IV Vartoq                   20/ 20 1130 123  47  56 20/30 Glory in the Kill
 Ensign I     Vixis                     3/  5  176  14  44  30  0/28 Glory in the Kill
 Lieut. JG II T'Laan                   10/ 10  231  19  42  16 11/20 Starfleet Academy
 Lieut. JG II Domitia                  10/ 10  261   7  42  38  5/30 Surveyors & Miners
@@ -911,7 +950,6 @@ Ensign I     Chen, Grace               5/  5  222  41  41  29  6/20 Starfleet Ac
 Ensign I     Scott, Montgomery         1/ 32  150  19  40  16  3/ 5 Enterprise Crew
 Ensign I     Gonzales, Lucia           5/  5  260  48  34  48 11/24 Starfleet Academy
 Lieut. JG II K'Bisch                  10/ 10  273   7  34  50 19/25 Surveyors & Miners
-Lieut. JG II Kirk, Cadet James T.     10/ 10  231  32  32  13 16/20 Another Time
 Ensign I     Vella                     1/  5  140  26  32  12  2/24 Nero's Crew
 Lieut. JG II Scott, Cadet Montgomery  10/ 10  231  13  32  32 12/15 Another Time
 Lieut. III   Sulu, Cadet Hikaru       15/ 15  496  62  31  31 11/36 Another Time
@@ -922,8 +960,6 @@ Lieut. III   Uhura, Cadet Nyota       15/ 15  588  61  25  61 11/36 Another Time
 Ensign I     Koth                      5/  5  200  29  25  46  0/28 Klingon Patriots
 Ensign I     M'Benga, Jabilo           5/  5   96  14  22  12  0/10 Lower Decks
 Ensign I     Klaa                      5/  5  200  17  21  62 10/28 Glory in the Kill
-Lieut. JG II Vartoq                   10/ 10  273  50  19  22  5/30 Glory in the Kill
-Lieut. JG II Rukor                     6/ 10  168  35  19   2  7/35 Glory in the Kill
 Lieut. JG II Gaila                    10/ 10  273  22  19  50  4/30 Starfleet Academy
 Lieut. JG II Akria, Shev               6/ 10  144  26  12  10  6/25 Starfleet Academy
 Lieut. JG II D'jaoki                   4/ 10  303  55   8  38 12/48 Romulan Patriots
@@ -990,15 +1026,16 @@ Stats again, sorted by Health
                                        |       |   |   |   |    |
 Rank         Name                     \|/     \|/ \|/ \|/ \|/  \|/  Group
 ------------ ----------------------- ------- ---- --- --- --- ----- ----------------
+Lieut. JG II Helvia                   10/ 10 1800  25 150 125 12/20 Surveyors & Miners
              McGivers, Marla           5/  5  530  45 110 110 11/57 Khan's Crew
 Ensign I     Klaa                      5/  5  200  17  21  62 10/28 Glory in the Kill
 Lieut. III   Uhura, Cadet Nyota       15/ 15  588  61  25  61 11/36 Another Time
 Lieut. III   McCoy, Cadet Leonard     12/ 15  452  28  28  57 12/36 Another Time
+Lt. Comm. IV Vartoq                   20/ 20 1130 123  47  56 20/30 Glory in the Kill
 Lieut. JG II K'Bisch                  10/ 10  273   7  34  50 19/25 Surveyors & Miners
 Lieut. JG II Gaila                    10/ 10  273  22  19  50  4/30 Starfleet Academy
 Ensign I     Gonzales, Lucia           5/  5  260  48  34  48 11/24 Starfleet Academy
 Ensign I     Koth                      5/  5  200  29  25  46  0/28 Klingon Patriots
-Lieut. JG II Helvia                   10/ 10  273   7  46  38 12/20 Surveyors & Miners
 Lieut. JG II Domitia                  10/ 10  261   7  42  38  5/30 Surveyors & Miners
 Lieut. JG II D'jaoki                   4/ 10  303  55   8  38 12/48 Romulan Patriots
 Ensign I     Zahra                     5/  5  100  11   6  33  1/ 8 Lower Decks
@@ -1006,17 +1043,16 @@ Lieut. JG II Scott, Cadet Montgomery  10/ 10  231  13  32  32 12/15 Another Time
 Lieut. III   Sulu, Cadet Hikaru       15/ 15  496  62  31  31 11/36 Another Time
 Lieut. JG II K'Bentayr, Vel           10/ 10  279  31  31  31 12/25 Starfleet Academy
 Ensign I     Vixis                     3/  5  176  14  44  30  0/28 Glory in the Kill
+Lt. Comm. IV Kirk, Cadet James T.     10/ 10  885  74  74  29 16/20 Another Time
 Ensign I     Chen, Grace               5/  5  222  41  41  29  6/20 Starfleet Academy
 Lieut. III   Spock, Instuctor         11/ 15  412  26  51  26  9/36 Another Time
-Lieut. JG II Vartoq                   10/ 10  273  50  19  22  5/30 Glory in the Kill
 Lieut. JG II T'Laan                   10/ 10  231  19  42  16 11/20 Starfleet Academy
 Ensign I     Scott, Montgomery         1/ 32  150  19  40  16  3/ 5 Enterprise Crew
 Lieut. JG II Komal                     9/  5  246  41  27  14  3/10 Glory in the Kill
-Lieut. JG II Kirk, Cadet James T.     10/ 10  231  32  32  13 16/20 Another Time
 Ensign I     Vella                     1/  5  140  26  32  12  2/24 Nero's Crew
 Ensign I     M'Benga, Jabilo           5/  5   96  14  22  12  0/10 Lower Decks
 Lieut. JG II Akria, Shev               6/ 10  144  26  12  10  6/25 Starfleet Academy
-Lieut. JG II Rukor                     6/ 10  168  35  19   2  7/35 Glory in the Kill
+Lt. Comm. IV Rukor                     6/ 10  885 111  59   7  7/35 Glory in the Kill
              Charvanek, Liviana        0/ 95  576  36  36 216  0/ 0 Romulan Patriots
              Nero                      7/100  576  48  48 192  0/ 0 Nero's Crew
              Marcus, Carol             0/ 90  576  48  96 144  0/ 0 Lower Decks
