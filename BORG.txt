@@ -56,3 +56,14 @@ _Missions_
 
 Note:
  - gift chest appears after building Vi'Dar to get 2 transwarp coils per day
+
+Act III
+
+_Epic Latinum Transwarp Cell_
+_Rare Latinum Transwarp Cell_
+_Uncommon Latinum Transwarp Cell_
+
+_Assimilated Ferengi Trader_
+ survey type ship
+ slow moving
+ available in any borg space
