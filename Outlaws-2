@@ -1,0 +1,74 @@
+**"Outlaws Part 2"** introduces:
+
+ - The Rogue Faction, complete with purple area in game and new systems
+ - Rogue Faction Store 
+ - Rogue Research Tree
+ - Eclipse Armadas: Uncommon and Rare
+ - The #stella
+
+**And associated widgets**
+ - Eclipse Security Codes -> in hostiles
+ - Apex Icons
+ - Rogue Credits
+ - Outlaw Research Credits
+ - Uncommon Exchange Loot -> in Uncommon Outlaw Armada Targets
+ - Rogue Transwarp Cell -> get to locked systems in Rogue Space
+ - Apex Research Medal -> unlocks a couple of research items
+ - Scoundrel Token
+ - Stella Particles -> given when scrapping #stella, needed for some research
+
+**Rogue Reputation**
+`   1 - 499` Lackey
+` 500 -    ` Abettor
+`          ` Soundrel
+`          ` Known Associate
+
+**The Rogue Faction Store Cards** 
+
+"Stella Brlueprint Reclaim"
+   build stella -> scrap stella -> get hull scan token -> get bp for stella
+
+"Research Credits"
+   rogue Credits -> outlaw research Credits
+
+"Directives, Rep & Credits"
+   eclipse security codes -> { Uncommon Eclipse Directives, Rogue Credits, Rogue reputation }
+
+"Outlaw Warp Token" (unlocks at Scoundrel)
+   ? -> Rogue Transwarp Cell
+
+"Data to Directives"
+   Decoded Data -> uncommon Eclipse Directives
+
+"Exchange Heist Loot"
+   Uncommon Exchange Loot -> { Rogue Credits, Rogue Reputation }
+
+"Uncommon Parts"
+   Uncommon Exchange Loot -> Uncommon Uranium
+
+"Unlock Piercing Research" (Anarchist Weaponry, and others)
+   Rogue Credits -> Scoundrel Token
+
+"Unlock Mitigation Research" (unlocks at Scoundrel)
+   Rogue Credits -> Scoundrel Token
+
+"Unlock Damage Research" (unlocks at Known Associate)
+   Rogue Credits -> Scoundrel Token
+
+**Battle Pass** (as seen by Ops31 players)
+
+ 1   8000 Pts -> {  2x 3`*`UO, 8x 3`*`CO, 1x 1M Par Token, 260K Par }
+ 2  16000 Pts -> { 10x Outlaws II Mission Key }
+ 3  24000 Pts -> {  5x 3`*`UG, 8x 3`*`CG, 1x 100K Dil Token, 23.4K Dil }
+ 4  32000 Pts -> {  1x 3`*`RC, 8x 3`*`UC, 39x 3`*`CC, 2x 1M Tri Token, 375K Tri }
+ 5  48000 Pts -> {  Outlaws Arc Avatar, 50x Stella Blueprints }
+ 6  64000 Pts -> {  1x 3`*`RO, 13x 3`*`UO, 62x 3`*`CO, 8x 1M Par Token, 2M Par }
+ 7  80000 Pts -> {  1x 3`*`RG, 18x 3`*`UG, 83x 3`*`CG, 3x 100K Dil Token, 85.5K Dil }
+ 8  96000 Pts -> {  1x 3 day peace shield, 15x 3h speedup, 15x 1h repair speedup }
+ 9 112000 Pts -> {  2x 3`*`RC, 23x 3`*`UC, 109x 3`*`UC, 4x 1M Tri Token, 1M Tri }
+10 152000 Pts -> { 50x Outlaws II Mission Key, 50x Stella Blueprints }
+11 176000 Pts -> {  2x 3`*`RO, 28x 3`*`UO, 133x 3`*`CO, 18x 1M Par Token, 4.4M Par }
+12 192000 Pts -> {  3x 3`*`RG, 35x 3`*`UG, 158x 3`*`CG, 7x 100K Dil Token, 163.8K Dil }
+13 208000 Pts -> {  1x 7 day peace shield, 10x 8h speedup, 15x 3h speedup, 10x 3h repair speedup, 15x 1h repair speedup }
+14 224000 Pts -> {  3x 3`*`RC, 42x 3`*`UC, 195x 3`*`CC, 8x 1M Tri, 1.8M Tri }
+15 256000 Pts -> { 1x Command Badge, 1x Science Badge, 1x Engineering Badge, 4x 3`*`RO, 50x 3`*`UO, 234x 3`*`CO, 31x 1M Par Token, 7.8M Par }
