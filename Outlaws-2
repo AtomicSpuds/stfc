@@ -16,12 +16,19 @@
  - Apex Research Medal -> unlocks a couple of research items
  - Scoundrel Token
  - Stella Particles -> given when scrapping #stella, needed for some research
+ - Research Credits -> given in alliance store during events in exchange for Rogue Event Trophies
+ - Rogue Event Trophies -> given in events
 
 **Rogue Reputation**
-`   1 - 499` Lackey
-` 500 -    ` Abettor
-`          ` Soundrel
-`          ` Known Associate
+`       1 -      499` Lackey
+`     500 -     4999` Abettor
+`    5000 -    24999` Trouble-Maker
+`   25000 -    99999` Soundrel
+`  100000 -   499999` Accomplice
+`  500000 -  1999999` Known Associate
+` 2000000 -  9999999` Partner
+`10000000 - 29999999` Outlaw
+`30000500           ` ..LOCKED..
 
 **The Rogue Faction Store Cards** 
 
