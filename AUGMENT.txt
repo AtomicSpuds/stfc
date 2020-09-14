@@ -73,7 +73,7 @@ Free
    6 build parts for Botnay Bay *timer* (disappears after have 60bp)
 
 Augment Credits can buy...
-   12 - 1 chest  Augment Recruit I *timer*
+```   12 - 1 chest  Augment Recruit I *timer*
    24 - 2 chests Augment Recruit I *timer*
    12 - 1 chest  Augemnt Recruit II *timer* (Kati / Otto)
    30 - 2 chests Augemnt Recruit II *timer* (Kati / Otto)
@@ -96,20 +96,20 @@ Augment Credits can buy...
  1180 - 510 Common plutonium
  2300 - 875 Uncommon Plutonium
  4000 -  10 Rare Plutonium
- 5700 -  40 Rare Plutonium
+ 5700 -  40 Rare Plutonium```
 
  
 Corrupted Data can buy..
-  150 -   50 Augment Credits (lvl19)
+```  150 -   50 Augment Credits (lvl19)
  1500 -  360 Augment Credits (lvl20)
  9500 -  480 Augment Credits (lvl30)
   100 -  125 Augment Reputation (lvl19)
   200 -  200 Augment Reputation (lvl19)
-  950 -  400 Augment Reputation (lvl20)
+  950 -  400 Augment Reputation (lvl20)```
 
 Decoded Data can buy..
-  500 -  250 Agument Credits (lvl20)
-71000 - 7130 Augment Credits (lvl30)
+```  500 -  250 Agument Credits (lvl20)
+71000 - 7130 Augment Credits (lvl30)```
 
 *timer* - once you purchase, a timer is set to unlock again after a delay
 *limited* - not always available
