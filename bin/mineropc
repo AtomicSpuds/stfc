@@ -24,6 +24,16 @@ my $cargo = $ARGV[0]; # 7868 units
 my $opc   = $ARGV[1]; # 18000
 my $rate  = $ARGV[2]; # 20000 .. /h
 
+if (!defined($cargo)) {
+	usage();
+}
+if (!defined($opc)) {
+	usage();
+}
+if (!defined($rate)) {
+	usage();
+}
+
 my $uleft = $opc - $cargo;
 
 my $hleft = $uleft / $rate;
@@ -69,3 +79,7 @@ my $dsecsfromnow = $dm - $dnow - 60;
 
 printf "hey ubr remind me in %s seconds to reset a miner at $opc\n", $dsecsfromnow;
 exit(0);
+
+sub usage {
+	die "$0 <cargo> <opc> <rate>";
+}
