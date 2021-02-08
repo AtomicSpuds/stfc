@@ -1,0 +1,34 @@
+*italics* or _italics_
+**bold**
+***bold italics***
+__underline__
+__*underline italics*__
+__**underline bold**__
+__***underline bold italics**__
+~~strikethrough~~
+
+`one line code block`
+
+```
+mutiline
+code
+block```
+
+```<color>
+css syntax highlighting
+```
+
+color | result
+diff  | red
+scss  | orange
+dts   | orange
+fix   | yellow (orange tint)
+css   | yellow
+yaml  | geen blue
+ini   | blue
+md    | blue
+bf    | grey
+tex   | aqua bg white fg
+
+
+||text to blank, called spoiler, show if click and accept||
