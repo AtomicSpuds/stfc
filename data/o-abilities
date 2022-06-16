@@ -88,8 +88,8 @@
 44 Off "Kerla"
 45 Cap "Krell"     Retribution +30% hull breach to opponent 1 round, each time get shield damage 
 45 Off "Krell"        Federation Contacts    +25% damage against federation ships by crew defense
-46 Cap "Kumak"
-46 Off "Kumak"
+46 Cap "Kumak"	   Discipline +5% stats of all officers at beginning of each round
+46 Off "Kumak"     Watch the world burn +50% to armor, shield deflection, dodge as long as ship is burning
 47 Cap "Kuron"
 47 Off "Kuron"
 48 Cap "Livis"

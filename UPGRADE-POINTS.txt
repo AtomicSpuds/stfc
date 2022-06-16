@@ -1,0 +1,27 @@
+Level 31
+`. 3000` Operations 31
+`. 3000` Drydock X
+`. 3000` Defense Platform X
+`. 2000` Tritanium Vault
+`. 2000` Parsteel Vault
+`. 2000` Dilithium Vault
+`. 1500` Science Lab
+`. 1500` Refinery
+`. 1500` R&D Department
+`. 1500` Foundry
+`. 1500` Engine Technology Lab   
+`. 1500` Defense Technologies
+`. 1500` Astronautics Studio
+`. 1500` Armada Control Center
+`. 1500` Academy               
+`. 1000` Tritanium Warehouse
+`. 1000` Shipyard
+`. 1000` Scrapyard
+`. 1000` Parsteel Warehouse
+`. 1000` Dilithium Warehouse
+`.  550` Tritanium Generator X
+`.  550` Ship Hangar
+`.  550` Parsteel Generator X  
+`.  550` Dilithium Generator X
+
+X - all A,B,C, etc are of the same number of power points

@@ -1,0 +1,26 @@
+Data Mining
+ new larger data mines in Augment space
+
+Uncommon Materials
+  Stella Particles can convert to chosen materials
+
+Scrapping Particle Payout improved for Stella
+  Increased
+
+Adaptive Memory Mode
+  free memory faster on older devices, increases stability
+
+Bug Fixes
+o Fixed an issue with T'laan's Captain Maneuver, Pike's ability, Hadley's ability, Darwin's ability, Leslie's ability and Hendorff's ability not working properly.
+o Fixed an issue where, sometimes, unoccupied mines would still display as 'occupied'.
+o Fixed an issue with an incorrect donation value in the mission "[Auto Destruct]"
+o Fixed an issue with the wrong description in the mission "New Blood."
+o Fixed a graphical glitch on the top centre of an Outlaw system when zooming out of the system view.
+o Fixed an issue with the mission "Corbomite Maneuver" giving incorrect reputation rewards in some paths.
+o Fixed an issue with being unable to complete the mission "Autopilot: Yarda" due to a Resource Error.
+o Fixed an issue with some missions displaying "Retrieving".
+o Fixed an issue with the Scrap Rewards screen sometimes showing incorrect rewards.
+o Fixed an issue with the game crashing when trying to access the "Kaikara" system.
+o Fixed an issue where players could still hide from other players' attacks by stacking their ships.
+o Improved precision of the multi-object viewer - players can now move their ships in between neighbouring stations again.
+o Fixed an issue where the Research node timer does not update when completing a research-level using speedups.

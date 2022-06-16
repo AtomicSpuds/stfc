@@ -18,6 +18,8 @@ block```
 css syntax highlighting
 ```
 
+... formats according to syntax, not really colored like you'd expect
+
 color | result
 diff  | red
 scss  | orange
@@ -32,3 +34,5 @@ tex   | aqua bg white fg
 
 
 ||text to blank, called spoiler, show if click and accept||
+
+\* a literal *

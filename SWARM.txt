@@ -49,7 +49,7 @@ Ops   G#2 G#1 Watch
 26/27  90  60  30
 28/29  90  60  30
 30/31  90  60  30
-32/33
+32/33  90  60  30
 34/35
 36/37  90  60  30
 38/39  90  60  30
@@ -71,7 +71,7 @@ Ops     G#2   G#1 Watch
 26/27  3200  2400  2400
 28/29  5000  4000  4000
 30/31  8500  6500  6500
-32/33
+32/33 12000  9000  9000
 34/35 15000 12500 12500
 36/37 20000 16000 16000
 38/39 25000 20000 20000
@@ -93,10 +93,10 @@ Ops      G#2    G#1  Watch
 26/27  4x15m  8x15m  4x15m
 28/29  4x15m  8x15m  4x15m
 30/31  3x30m  5x30m  3x30m
-32/33
+32/33  3x30m  5x30m  3x30m
 34/35  3x30m  5x30m  3x30m
 36/37  3x30m  5x30m  3x30m
-38/39
+38/39  3x30m  5x30m  3x30m
 40/41
 42/43  3x30m  5x30m  3x30m
 44/45
@@ -130,3 +130,28 @@ Level Basic  Heroic
 30/31   75    150   30 1 pt , 32 10pts
 32/33   75    375   32 2 pts, 35 10pts
 ```
+
+Data Extraction Events
+
+     10 pts per decoded data unit
+      1 pt  per corrupt data unit
+250,000 pts per Botnay Bay built
+ 50,000 pts per Botnay Bay tier-up
+
+ALB: 2d event
+Solo Data Extraction Leaderboard
+Solo Data Extraction Event
+
+Solo Event Milestones
+```
+  Ops MN Points  Zeta  AR  IC
+30/31  4  2.50M   100 10k 100
+30/31  3  1.75M   100  5k
+30/31  2  1.00M        3k
+30/31  1  0.60M        2k
+```
+
+MS = Milestone Number
+Zeta = Zeta Token
+AR = Augment Reputation Points
+IC = Independent Credits

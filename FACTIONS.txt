@@ -9,20 +9,29 @@ Earn reputation points by:
 All three factions effected, either  1 -, 2 + or 1 +, 2 -
 
 ```
--2,000,000 is max negative
-  -500,000 is ENEMY
-   -25,000 is HOSTILE
-      -500 is UNTRUSTWORTHY
--499 - 499 is NEUTRAL
-       500 is TOLERATED
-     5,000 is NEIGHBOR
-    25,000 is FRIENDLY
-   100,000 is FAVORED
-   500,000 is CONSORT
- 2,000,000 is ASSOCIATE
- 5,000,000 is ASSOCIATE barrier
-10,000,000 is RESPECTED
-10,000,500 is max positive
+     Points     Reputation
+------------------------------
+   -2,000,000  is max negative
+     -500,000+ is ENEMY
+      -25,000+ is HOSTILE
+         -500+ is UNTRUSTWORTHY
+  -499 to 499  is NEUTRAL
+          500+ is TOLERATED
+        5,000+ is NEIGHBOR
+       25,000+ is FRIENDLY
+      100,000+ is FAVORED
+      500,000+ is CONSORT
+    1,250,000+ is CONSORT (dailies barrier)
+    2,000,000+ is ASSOCIATE
+    5,000,000+ is ASSOCIATE (dailies barrier)
+   10,000,000+ is RESPECTED
+   30,000,000+ is CELEBRATED
+   50,000,000+ is ADMIRED
+   80,000,000+ is ESTEEMED
+  140,000,000+ is COMMENDED
+  440,000,000+ is GLORIFIED
+1,000,000,000+ is CHAMPION
+1,000,000,500  is [LOCKED IN]
 ```
 
 max positive:
@@ -42,9 +51,10 @@ NEIGHBOR  24  25
 FRIENDLY  26  27  10000 
 FAVORED   28  29  12500 +11750  +70 +100
 CONSORT   30  31  15000 
-ASSOCIATE 32  33  17500
+CONSORT   32  33  17500 
 ASSOCIATE 34  35  20000
-RESPECTED 36  37  22500
+ASSOCIATE 36  37  22500
+RESPECTED 38  39  25000
 ```
 
 Also rewarded is 3* raw materials, presuming you complete the mining.

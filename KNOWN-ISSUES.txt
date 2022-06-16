@@ -21,3 +21,21 @@ warp speed modifying abilities can sometimes (but not always!) confuse turtles, 
 3. Attack a base, get 0 rss.  BugBug! Base is not empty, no damage either direction registered, nor does it show in the battle log, but you see the battle animation.  Try again with a different ship or move on to another base.
 4. Building/Research/Ship Build counters stuck
    you can get notifications of 'help' but counters don't move at times. restart app shows correct value (retrieves counter from server)
+5. Stuck notification box
+   get to chat by tapping on the lower left alliance button then tap on chat
+   rotate device
+6. Shield was activated, but didn't actually update server, caused by
+   activating shield + rapidly exit/force stop the app
+   to be _sure_ exit app and restart (loads state from server)
+
+**Armadas**
+1. Won't let me join but I am in system.
+   Some state is bogus that gets reset when you restart your client app.
+2. Won't let me join but I can land next to the armada in pleanty of time!
+   Do that. Once you land in system join. Likely you put Helvia on the bridge, and Armadas haven't learned to account for her warp speed increase yet.
+3. Won't let me join but I ported in to get there in time.
+   Restart client app.
+4. I participated but I did not have a glowey circle.
+   Apparently participation flags do not always create a glowey circle. I have join'ed normally, warped to an Aramda circle, and only when I step out and step back in does it start glowing.
+5. My officers don't activate but another players did!
+   The battle log is generated words from the actual computer battle records.  Multiples of any officer will only show one activation because the word generator only shows the 1st one.  Rest assured your officer did their ability.  The battle log word generator needs work.

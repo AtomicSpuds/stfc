@@ -1,0 +1,14 @@
+**Build D'Vor**
+
+Build ship = 500pts
+
+```
+Ops  Points  Reward
+26   500     4x100K DT, 250K par, 77 CG3, 19 UG3, 1 RG3
+```
+
+**Upgrade D'Vor**
+
+**Latinum Rush: Solo Leaderboard**
+
+**Latinum Rush**

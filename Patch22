@@ -1,0 +1,84 @@
+Patch22
+
+Star Trek: Discovery - Part I
+
+USS Discovery
+- mycelium drive
+ - harvest mycelium
+ - refine mycelium into Cultivated Mycelium
+ - as long as have Cultivated Mycelium, can jump, subject to cooldown
+Anomaly Events
+ - last for 7-10 mins
+ - randomly occur throughout the galaxy
+ - hostiles pour out of anomolies
+ - mine resources rapidly before anomoly gone
+New Officers
+ E Michael burnham
+  - steadfast: increase impulse
+  - intuitive: when hit, reduce opponent's sheilds in PvP 
+ R Saru
+  - precautions: reduce opponent criticial hit chance in PvP
+  - avoid danger: reduce opponents damage in PvP
+ U Origins Burnham
+  - vulcan hello: increase attack of all officers
+  - risk-taker: increase damage
+ C Oirigins Stamets
+  - biologist: increase defense of all officers
+  - no time to waste: increase hull health
+ C Origins Saru
+  - vigilant: increase health of all officers
+  - prey instinct: increase warp speed
+Discovery missions and stories
+Battle-Pass 24d
+ Avatars
+  Officer Burnham Avatar
+  Officer Saru Avatar
+  Officer Stamets Avatar
+  USS Discovery Avatar
+  Star Trek Day Avatar
+ Frames
+  Gold Discovery Emblem
+  Mycelial Spore
+  Sarcophagus Ship
+
+Imrovements
+ Battle Reports
+  300 battle reports now stored
+ Exchange Armadas
+  guaranteed spawn rate
+
+Bug Fixes
+
+ Fixed the missing 3rd icon of the top 3 contributors in the alliance contributions list.
+ Fixed an issue affecting certain strings overlapping.
+ Fixed an issue where players could still attack a station without assigning captain to the ship.
+ Fixed the Pure Research nodes not showing the discounted amount. Please note that this fix will not affect any faction related costs
+ Fixed an issue where the research timer changed significantly after tapping on the "Go" button in the "Requirements Not Met" section of the other research.
+ Fixed an issue with the [Multi-select Object Viewer] If target warps away when you arrow over to it, object viewer and ship cards break.
+ Fixed an minor visual issue with the officers' stats bonuses not updating properly.
+ Fixed an issue with the game being stuck when tapping on the "OK" button in the Event's banner.
+ Fixed an issue when tapping on the Prestige Research Icon, it doesn't take the player to a research node available from the Shipyard and Drydock.
+ Fixed the art for the Stella Researches being missing after exiting and entering the Research menu repeatedly from the Prestige Research Icon on the Drydock and Shipyard.
+ Fixed an Android issue where the device's Back button did not work when launching the game for the first time after a fresh installation.
+ Fixed an issue when interacting with in-game notifications in a number of menus causing them to overlap with the HUD.
+ Fixed an issue with the game getting stuck after going back to the "Research" screen from the "Event Leaderboard" screen.
+ Fixed an issue with the "Victory/Defeat" battle in-game notifications missing after fighting a Faction Revenge hostile.
+ Fixed an issue with the targeting ability being removed if the targeted player warps out.
+ Fixed an issue with empty notifications appearing when a PvP battle starts and the text shows up on the "Battle Results" notifications after attempting to send two ships to attack a player's ship.
+ Fixed an issue with Eurydice's portrait displaying as a datapad in the chest opening screen.
+ Fixed an issue with the game getting stuck in the "Research" screen after navigating to a building through the "Go" button in the "Requirements Not Met" section then opening the "Research" screen again.
+ Fixed an issue with the upgrading time not being displayed in the "Research Upgrade" panel after collecting then upgrading that research continuously.
+ Fixed an issue with some ships getting stuck in combat status due to poor connection.
+ Fixed an issue with completed events being shown before active events.
+ Fixed an issue with Armada notifications being displayed incorrectly if an Armada battle is created right after the player joins an Alliance.
+ Fixed certain Korean characters which were displayed incorrectly
+ Fixed an issue with the instant Repair button not being present in the Ship Management Panel.
+ Fixed an issue with the object viewer not loading when coming back from the full scan screen while the multi-select option is enabled on stacked hostiles.
+ Fixed an issue with players not being able to level up officers that are not unlocked yet.
+ Fixed an issue with the quest "Hold Fast" where after completing the first objective, the recommended level disappears from the Mission Panel.
+ Fixed an issue with the mission "Upgrade Tritanium Warehouse: Level 38" not activating despite meeting the requirements.
+ Fixed an issue with the quest "A sleeping Giant's" last dialogue from the second objective of the mission being delivered by Maia instead of Ro Mudd.
+ Fixed a grammar error with the quest "Fade to Black" with Mudd's dialogue for the fourth objective of the mission.
+ Fixed an issue where some officers have been wrongly configured for Rank up Ability increases. 
+
+

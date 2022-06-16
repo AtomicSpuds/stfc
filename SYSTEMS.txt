@@ -1,5 +1,10 @@
   System#   ATTR Name[level]      mining..ship chest contents
 
+ 149450660    .. Rakkaus[16]        .. PAR ..  42 - 51 DIL
+1017582787   .I. Midnight[19]       .. DIL ..  48 - 51 DIL, 167 - 203 TRI
+              .. Medua[17]          .. PAR ..  51 - 55 DIL
+              .. Dle'greffo         .. PAR ..     - 58 DIL
+
      81459    .. Opla[20]           .. 2RG
 1091871393    .. Pune[16]           .. PAR ..  39 - 51 DIL
 1726465367    .. Oltomon[17]        .. TRI .. PAR
@@ -29,7 +34,6 @@
  846029245   .K. Khitomer[23]
 1735899624   .K. Francihk[20]       .. 3*C ..    658 PAR 58 TRI
 
-1017582787   .I. Midnight[19]       .. DIL .. 48 DIL
  604074052   .I. Dle'greffo[18]     .. PAR .. 45 DIL
   60112512   .I. Gra[18]            .. TRI .. 581 PAR
 
@@ -89,7 +93,7 @@ IP, BP, OX
 1614747268   .I. Boru[7]            .. TRI .. 176 PAR ..
  161490775   .F. S'matharz[25]      .. TRI .. 82 DIL .. 
  840804243   .F. lainey[27]         .. PAR .. 329 PAR 88 DIL .. 16K -61F 33R
-        42   MI. Orion[12]          .. NIL .. 107 - 113 DIL
+        42   MI. Orion[12]          .. NIL .. 107 - 113 TRI
         54   .I. Rigel[13]          .. NIL .. 326 - 347 PAR
 
 1036671379   MF. Doska[27]          .. 3RG, DIL ..

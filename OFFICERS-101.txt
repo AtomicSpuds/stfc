@@ -30,7 +30,8 @@ The 3rd officer on he bridge cannot have synergy because there are only 6 mining
 
 If only two survey ships are out mining, best to place all 6 mining crew in the bridge of both, because the % increase due to synergy is maximized if your goal is speed.
 
-Other more detailed officer guides are:
-- From Epictetus .. https://docs.google.com/document/d/e/2PACX-1vTYZ10pMneyY1uS8aMrHZqTjy_srALXc3np6EiMttD5FcvoWAcL2HpWkZa4snyYWajHr78FRbtPcbpX/pub#h.g5jiwufgqu26
-- From SpudsMcKinsey .. https://github.com/AtomicSpuds/stfc/blob/master/OFFICERS.txt
-- https://lonewolfonline.net/star-trek-fleet-command-officer-assignments/
+SEE ALSO
+	Epictetus .. https://docs.google.com/document/d/e/2PACX-1vTYZ10pMneyY1uS8aMrHZqTjy_srALXc3np6EiMttD5FcvoWAcL2HpWkZa4snyYWajHr78FRbtPcbpX/pub#h.g5jiwufgqu26
+	SpudsMcKinsey .. https://github.com/AtomicSpuds/stfc/blob/master/OFFICERS.txt
+	https://lonewolfonline.net/star-trek-fleet-command-officer-assignments/
+	#officer-cost
