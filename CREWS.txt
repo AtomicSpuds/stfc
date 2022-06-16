@@ -1,0 +1,24 @@
+Against hostiles
+
+  Chen =  reduce hostile energy weapons
+  Tlaan = reduce hostile kinetic weapons
+
+  before Pike:
+
+    Explorer: Cap Cadet Uhura, Cadet McCoy, Chen
+ Intercepter: Cap Cadet Uhura, Cadet McCoy, Tlaan
+  Battleship: Cap Chen, Tlaan, Moreau
+
+  after Pike
+
+    Explorer: Cap Pike, Moreau, Chen
+ Intercepter: Cap Pike, Moreau, Tlaan
+  Battleship: Cap Pike, Chen, Moreau
+
+Against mission objectives
+
+  Cap Cadet Uhura, Cadet Kirk, Cadet McCoy
+   -vs-
+  Cap Cadet Uhura, Cadet Kirk, Instr. Spock
+
+  note: 'against hostiles' abilities/maneauvers do not activate

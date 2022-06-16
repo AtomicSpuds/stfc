@@ -1,0 +1,45 @@
+Franklin - swarm killer!
+
+If you like boring math, see the bottom.
+
+If you like hand waiving here we are!
+
+The Franklin dailies are nice to get bio matter, not frequency modulators.
+
+The Franklin does dailies well once it's been leveled up with frequency
+modulators.
+
+Therefore, one ought to ignore dailies and focus of FM on the highest return
+from 5 trips with the franklin to swarm.
+
+We'll give Spuds Franklin for example. It can hit 2 lvl26 or 20 lvl24.
+That translates into 2x108=216 or 20x63=1260.  So The sweet spot for now
+is lvl24.  5 trips means 6300 FM per day if I don't involve other ships
+and I dont do more than 5 trips.
+
+The higher you get the Franklin, the higher level swarm is the sweet spot,
+and the more FM you can get, the more you can level it up, the more FM you
+can get ...
+
+
+Now for some math:
+
+Lets take a lvl20 daily..
+
+```
+  Amount: 50  20   8
+   Level: 15  20  22
+FM Count: 50 460 312 = 822 FM/day
+```
+
+Lets take 15+20+22 hits and translate that to lvl20:
+
+```
+ 57 hits x 23 FM/hit = 1311 FM/day
+```
+
+Lets hit 200 lvl24:
+
+```
+ 200 hits = 63 FM/hit = 12600 FM/day
+```

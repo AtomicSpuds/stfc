@@ -1,0 +1,23 @@
+Blueprints for the Ferengi D'Vor are available in the 30day loyalty chest as
+well as purchase from the shop.  Hints at other methods of aquisition have
+been made, stay tuned!
+
+upgrade parts are available by refining Raw Latinum, winning in events, or
+purchase from the shop.
+
+Warp ranges from Panic:
+```
+Tier Range
+  1  18
+  2  18
+  3  18
+  4  18
+  5  19
+  6  24
+  7  26
+  8  33
+  9  40
+```
+
+**SEE ALSO**
+  #ships, #ferengi

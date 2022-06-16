@@ -1,0 +1,62 @@
+`.                                                                         Faction`
+`_`**L1**`_ ____`**L2**`_____  ______`**L3**`_______  _______`**L4**`_______  _______`**L5**`________ | Badge`
+`SH    SH Cred OXP   SH Cred  OXP B  SH   Cred  OXP  B  SH   Cred  OXP  B | | Rarity`
+`100  100 1100 50K  200 4400 500K 1  300   11K 1250K 2  800 24.2K 1250K 4 F C E` Jamse T. Kirk
+` 38   57      10K  114 1200 100K    152  4.8K  250K 1  228 12.0K  500K 2 F S R` Spock
+` 10   20     2.5K   40       50K     80  1.0K  125K    150  4.0K  250K 1 F S U` Chen
+`100  100 1100 50K  200 4400 500K 1  300   11K 1250K 2  800 24.2K 2500K 4 R E E` Nero
+` 18   36      10K   72      100K    108  1.2K  250K 1  198  4.8K  500K 2 F C R` T'Pring
+`120  120 1200 50K  240 4800 500K 1  360   12K 1250K 2  960 26.4K 2500K 4 F C E` Alexander Marcus
+` 90   90 1000 50K  180 4000 500K 1  270   10K 1250K 2  720 22.0K 2500K 4 F S E` Carol Marcus
+`110  110 1500 50K  220 4600 500K 1  330 11.5K 1250K 2  880 25.3K 2500K 4 A C E` Khan
+`100  100 1100 50K  200 4400 500K 1  300 11.0K 1250K 2  800 24.2K 2500K 4 F C E` Christopher Pike
+`125  125 1350  6K  250 5250 120K 1  375 13.2K  500K 2 1000 30.0K 1150K 4 N E E` Five of Ten
+`110  110 1150 50K  220 4600 500K 1  330 11.5K 1250K 2  880 25.3K 2500K 4 F C E` Gary Mitchell
+`100  100 1100 50K  200 4400 500K 1  300 11.0K 1250K 2  400 11.0K 2500K 4 K C E` Gorkon
+` 95   95 1050 50K  190 4200 500K 1  285 10.5K 1250K 2  760 23.1K 2500K 4 K C E` Kang
+` 95   95 1050 50K  190 4200 500K 1  285 10.5K 1250K 2  760 23.1K 2500K 4 K S E` Kras
+
+R C E Liviana Charvanek
+R E E Nero
+N C E Six of Ten
+N E E Ten of Ten
+
+K S R Azetbur
+N S R Barot
+K C R Chang
+R S R Decius
+A S R Joachim
+F S R John Harrison
+F E R Keenser
+K E R Kerla
+K E R Krell
+R C R Kumak
+K C R Kuron
+F S R Leonard McCoy
+R E R Livis
+K S R Mara
+A E R Marla McGivers
+F S R Marlena Moreau
+R S R Mirek
+F E R Nyota Uhura
+N C R One of Ten
+N S R Seven of Ten
+F S R Spock
+N E R Stonn
+N C R T'Pring
+R E R Tal
+R S R Vemet
+F E R Yuki Sulu
+
+
+SH = shards required
+Cred = Faction Credits required
+B = badge type, Command, Science, Engienering
+OXP = Officer Experience required
+
+Rarity
+E = Epic
+R = Rare
+U = Uncommon
+C = Common
+

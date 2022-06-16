@@ -1,0 +1,36 @@
+**Build Cost**
+`Shipyard Level`
+`|`
+`|  T LVL 2*CC   UC   CO   UO    CG UG  Parts       Tri      Dil      XP`
+`10 7 35  2460  852                      1302    420075    14269  103560` Phindra (Interceptor)
+`12 7 35  3385 1156                      1842    435750    43905  103560` Turas (Explorer)
+`14 7 35            4905 1661            2776    653900    62105  103560` Talla (Battleship)
+`26 7 35                       5290 913  2555   1818000   122610  103560` Envoy (Survey)
+`|`
+`|  T LVL    CC    UC   RC    CG    UG    RG     CO    UO   RO  Parts         Tri       Dil      XP Fac`
+`26 9 45   4672  3244  167  1505   683    39                    21520   287811000  16090250 2561700` N Horizon (Survey)
+`26 9 45                   16095  5088  1054   1968  1627  260  49421   309230000  25261000 2561700` F Mayflower (Explorer)
+`26 9 45  15320  4632  766  1898  1514   192                    38021   372850000   9669250 2561700` K D3 (Intercepter)
+`28 9 45   6320  2689  338                    41680  8912 1391  50852   764300000  22930500 2561700` K Bortas (Battleship)
+`32 9 45                   86685 20675  3716  14650  6364  919 141306  2374050000  96689000 2561700` K B'Rel (Explorer)
+`34 9 45 184200 46400 7600 32475 15075  1913                   254430 16527900000 213193000 2561700` K D4 (Intercepter)
+`34 9 45  35850 17025 2418                   201150 54950 9800 318005 12004500000 519529000 2561700` R Augur (Battleship)
+`34 9 45                  195250 51000 10450  34500 16150 2587 330830 10271000000 673895000 2561700` F Enterprise (Explorer)
+
+**Scrap Returns**
+`Scrapyard Level`
+`|  T LVL 3*CG  UG  RG  CC UC RC  CO UO RO Parts    Tri   Dil   XP`
+`10 7 35    41  12   1  76 22  1             41   91370  3568 7767` Phindra (Interceptor)
+`12 7 35   105  30   1            57 16  1   57   82689 10977 7767` Turas (Explorer)
+`14 7 35                82 24  1 153 43  1   85  117275 15527 7767` Talla (Battleship)
+`16 7 30    40   8   1  74 15  1             39  415651 30652 5161` Envoy (Survey)
+`16 7 35    64  18   1 118 33  1             74  415651 30652 7767` Envoy (Survey)
+`|                                         4* Parts`
+`|  T LVL  4*CG    UG   RG     CO   UO   RO  Common Uncommon        Tri       Dil    XP`
+`34 9 40  34904  1637  182  18795  881   98  72798      4474   30077500   3727525 37973` Mayflower (Explorer)
+`34 9 45  54630  3096  486  29416 1667  262 111486      8362   30077500   3727525 51234` Mayflower (Explorer)
+`45 9 45 265864 15066 2364 143158 8113 1273 446451     33484 1021400000 100649250 51234` Enterprise (Explorer)
+
+
+Prime Officers 100 4`*`UG
+Prime Crystal 1000 4`*`UG

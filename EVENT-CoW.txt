@@ -1,0 +1,68 @@
+
+Rewards for a lvl29 player:
+
+*Alliances* Gift Section
+```
+ CoW|Ship Reward Pack (limit 2)
+  8000 AET = 1 chest = 3x 3*RC, 38x 3*UC, 6x 1M tri, 5x 100k tri
+
+ CoW|Station Reward Pack (limit 2)
+  8000 AET = 1 chest = 3x 3*RO, 38x 3*UO, 13x 1M par
+
+ CoW|Research Reward Pack (limit 2)
+  8000 AET = 1 chest = 3x 3*RG, 38x 3*UG, 10x 100k dil
+
+ CoW|Speedup Reward Pack (limit 4)
+  4000 AET = 1 chest = 8x 3hr S, 8x 1hr R, 10x 1hr S, 8x 30m R
+
+ CoW|Armada Reward Pack (limit 1)
+  16000 AET = 1 chest = 200x RAD, 300x UAD
+``` 
+
+*Recruit* Gift Section
+```Cow Secials
+ Gold Trophy Recruit
+   50 AGT = 1 chest
+  100 AGT = 2 chests
+  400 AGT = 5 chests
+    chance of Epic Pike, Kirk, Marcus, Gorkon, Kang, Nero, Charvanek
+              Rare Spock, Bones, Uhura, Yuki, Moreau, Mirek,, Mara, Livis,, Krell, Kerla, Chang, Azetbur, Kumak, Vemet, Decius
+              Uncommon Sulu, Scotty, Arkady, D'Jaoki, Chen, Gonzales, Zhou, Yan'agh, Woteln, Vixis, M'Ral, L'Nar, Koth, Klaa, Javaid, Arix
+
+ Gold Trophy Utility Pack
+   900 AGT = 1 chest
+  2000 AGT = 2 chests
+    chance of 1000x IC, 350x IC, 200x IC, 150x IC, 100x IC
+              15x RT, 10x RT, 5x RT, 3x RT, 2x RT, 1x RT
+              30kx SXP, 15kx SXP, 5kx SXP
+              200x RAD, 100x RAD, 50x RAD, 100x UAD
+
+ Silver Trophy Utility Pack
+   900 AST = 1 chest
+  2000 AST = 2 chests
+    chance of 1000x IC, 350x IC, 200x IC, 150x IC, 100x IC
+              15x RT, 10x RT, 5x RT, 3x RT, 2x RT, 1x RT
+              30kx SXP, 15kx SXP, 5kx SXP
+              200x RAD, 100x RAD, 50x RAD, 100x UAD
+```
+ 
+... 3h21h timer for all as of 20200319 14:53:41
+
+Key:
+ 
+AET = Alliance Event Trophy
+AGT = Alliance Gold Trophy
+AST = Alliance Silver Trophy
+CoW = Crucible of War
+S = SpeedUp
+R = Repair
+3* = Three Star Material
+UX = Uncommon X
+RX = Rare X
+XC = X Crystal
+XO = X Ore
+XG = X Gas
+RAD = Rare Armada Directives
+UAD = Uncommon Armada Directives
+IC = Independent Credits
+RT = Relocation Token

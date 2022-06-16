@@ -1,0 +1,18 @@
+How do you get items?
+--------------------------------------
+
+recruit token standard
+  free chest
+  dailies
+  missions
+  standard recruit chest
+
+officer xp
+  free chest
+  pve chest
+  standard recruit chest
+
+ship xp
+  free chest
+  pve chest
+  ship attacking anything if ship can earn goes directly to ship

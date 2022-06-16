@@ -1,0 +1,51 @@
+To kill a swarm softened up by a hit by a franklin
+
+1 d3      177,004 
+2 valklas 194,009
+3 kumari  211,248
+4 kumari          cap bones, uhura, t'laan
+
+
+   tri dil time
+1 2707 122 15m18s
+2 2775 428  6m08s
+3 2432 241  6m58s
+
+
+```
+One hit on a non damaged lvl26 swarm:
+          T Lvl
+1 valklas 6  26 201,738 cap bones, cadet sulu, chen .. deck chan, barot, otto
+2 valklas 6  26 201,738 cap bones, cadet sulu, t'laan .. deck chan, barot, otto
+3 valklas 6  26 204,361 cap bones, uhura, t'laan .. deck chan, barot, otto
+
+    tri   dil time
+1 15747  2444 33m05s
+2 11382  1766 23m55s
+3 10752  1668 22m36s
+```
+
+For @[FEDS] USS NCC-1701#2449 ```
+Three hits on a non damaged lvl26 swarm:
+          T Lvl
+1 valklas 6  27 209,061 cap otto, barot, kati .. deck stonn, livis, kirk
+2 valklas 6  27 208,696 cap mccoy, uhura, t'laan .. deck otto, kati, barot
+
+  Att Def Heal Hull   tri   dil   time
+1 66K 59K 83K   31K 36970  5737   1h20m
+2 68K 59K 80K   39K 28052  4353   58m41s
+```
+
+
+1 Franklin t4l19 65,432 cap cadet uhura, cadet kirk, instr spock
+2 Franklin t4l19 65,867 cap bones, uhura, t'laan
+3 Franklin t4l20 67,529 cap bones, uhura, t'laan
+
+  lvl26 swarm hull left
+1 90,009
+2 80,940
+2 70,244
+3 37,525
+3 14,936
+3 45,060
+3 23,928

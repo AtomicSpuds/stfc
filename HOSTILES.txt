@@ -1,0 +1,20 @@
+Zhang 19 - 18 Boslic Slave Trader
+Zhang 19 - 20 Boslic Slave Trader
+
+Hostile Population Algorithm Behavior (my observations only!)
+- fixed # of hostiles in any given system
+- kill one, it gets replaced
+- when spawning, weighted random generator, guessing roughly:
+   50% system level -1
+   30% system level
+   20% system level +1
+- when more than one type, each level is then split into a % based on type,
+   use your observations to see, some systems have traders, my guess is:
+     80% patrol
+     20% trader
+   but I bet it is system based and not a general rule
+- corrilary is you can 'extinct' a given level or type of hostile because
+  random will eventually randomly choose what you are not hunting
+- fixing 'extinct' hostile types/levels requires you ore someone else
+  to hit hostiles that are in the system until your preferred type randomly
+  gets chosen at spawn time

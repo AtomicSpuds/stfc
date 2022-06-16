@@ -1,0 +1,43 @@
+From LCARS ..
+
+Arc 3 Missions are now live. The two mission chains are:
+
+The House of Borg Part 1
+ 1  The House of Borg Part 1 [Auto Start]
+ 2  The House of Borg Part 2 [Link]
+ 3  The House of Borg Part 3 [Link]
+ 4  The House of Borg Part 4 [Link]
+ 5  The House of Borg Part 5 [Link]
+ 6  The House of Borg Part 6 [Link]
+ 7  The House of Borg Part 7 [Link]
+
+The Long Way Home 
+ 1  The Long Way Home [Auto Start]
+ 3  Our Fates Are Tied [Link]
+ 4  Unrelenting [Link]
+ 5  A Home That Only We Know [Link]
+ 6  Unlikely Allies [Link]
+ 7  The Shoulders of Giants [Link]
+ 8  Routed [Link]
+ 9  The Art of Misdirection [Link]
+10  Home Stretch [Link]
+11  Displaced [Link]
+12  Reclamation [Link]
+13  Inheritance [Link]
+14  Reverse Engineering [Link]
+15  A Sterling Example [Link]
+16  House Rules [Link]
+17  Empire of Ashes [Link]
+18  Proving Grounds [Link]
+19  Echoes of Torana [Link]
+20  Bearer of Bad News [Link]
+21  Cold and Hunted [Link]
+22  Academy Dropout [Link]
+23  The Chancellor's Daughter [Link]
+24  Caveat Emptor [Link]
+25  A Fate Worse Than Death [Link]
+26  Cracks on the Surface [Link]
+27  Part of Something Bigger [Link]
+28  No Fighting in the War Room [Link]
+29  Precursor [Link]
+

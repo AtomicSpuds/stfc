@@ -1,0 +1,19 @@
+
+
+Attacking a level 31 interceptor
+
+Ship power is as seen during warp en route, not docked at station
+```
+1 kumari 201,465 cap chen, gaila, t'laan deck otto, chang, barot
+2 kumari 207,332 cap cadet uhura, instr. spock, t'laan deck otto, chang, barot
+3 kumari 201,465 cap t'laan, gaila, chen deck otto, chang, barot
+4 kumari 203,100 cap cadet uhura, gaila, t'laan deck otto, chang, barot
+5 kumari 208,508 cap kirk, spock, bones
+
+   tri dil time
+1 3786 374 10m51s
+2 3787 375 10m51s
+3 3372 334  9m40s
+4
+5 4925 487 14m07s
+```
